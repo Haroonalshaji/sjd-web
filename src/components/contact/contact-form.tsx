@@ -21,11 +21,11 @@ const schema = z.object({
 type FormValues = z.infer<typeof schema>;
 
 const budgets = [
-  "Under $1,000/mo",
-  "$1,000 – $2,500/mo",
-  "$2,500 – $5,000/mo",
-  "$5,000 – $10,000/mo",
-  "$10,000+/mo",
+  "Under ₹25,000/mo",
+  "₹25,000 – ₹50,000/mo",
+  "₹50,000 – ₹1,00,000/mo",
+  "₹1,00,000 – ₹2,50,000/mo",
+  "₹2,50,000+/mo",
   "Project-based",
 ];
 

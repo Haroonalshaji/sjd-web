@@ -18,6 +18,8 @@ import {
 
 type Props = { params: Promise<{ slug: string }> };
 
+export const dynamic = "force-static";
+
 export function generateStaticParams() {
   return caseStudies.map((c) => ({ slug: c.slug }));
 }

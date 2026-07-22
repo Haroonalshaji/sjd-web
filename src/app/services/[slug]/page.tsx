@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import {
@@ -19,11 +20,14 @@ import { Button } from "@/components/ui/button";
 import {
   getRelatedServices,
   getServiceBySlug,
+  getServiceImage,
   services,
 } from "@/data/services";
 import { ArrowRight } from "lucide-react";
 
 type Props = { params: Promise<{ slug: string }> };
+
+export const dynamic = "force-static";
 
 export function generateStaticParams() {
   return services.map((s) => ({ slug: s.slug }));
@@ -37,6 +41,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: service.metaTitle,
     description: service.metaDescription,
     path: `/services/${service.slug}`,
+    image: `${process.env.NEXT_PUBLIC_SITE_URL || "https://sajad.digital"}${getServiceImage(service.slug)}`,
   });
 }
 
@@ -47,6 +52,7 @@ export default async function ServiceDetailPage({ params }: Props) {
 
   const Icon = service.icon;
   const related = getRelatedServices(service.related);
+  const imageSrc = getServiceImage(service.slug);
 
   return (
     <>
@@ -60,6 +66,8 @@ export default async function ServiceDetailPage({ params }: Props) {
             name: service.title,
             description: service.description,
             path: `/services/${service.slug}`,
+            priceFrom: service.priceFrom,
+            pricing: service.pricing,
           }),
           faqSchema(service.faqs),
         ]}
@@ -73,30 +81,44 @@ export default async function ServiceDetailPage({ params }: Props) {
               { label: service.shortTitle },
             ]}
           />
-          <Reveal>
-            <div className="mb-6 flex h-14 w-14 items-center justify-center rounded-2xl bg-primary/15 text-accent">
-              <Icon className="h-7 w-7" aria-hidden />
-            </div>
-            <h1 className="max-w-3xl font-heading text-4xl font-semibold tracking-tight md:text-5xl">
-              {service.title}
-            </h1>
-            <p className="mt-5 max-w-2xl text-lg text-muted">
-              {service.description}
-            </p>
-            <div className="mt-8 flex flex-wrap gap-3">
-              <Button asChild size="lg">
-                <Link href="/contact">
-                  Book consultation
-                  <ArrowRight className="h-4 w-4" />
-                </Link>
-              </Button>
-              {service.pricing && (
-                <span className="inline-flex items-center rounded-xl border border-border px-4 text-sm text-muted">
-                  {service.pricing}
-                </span>
-              )}
-            </div>
-          </Reveal>
+          <div className="grid items-center gap-10 lg:grid-cols-[1.05fr_0.95fr]">
+            <Reveal>
+              <div className="mb-6 flex h-14 w-14 items-center justify-center rounded-2xl bg-primary/15 text-accent">
+                <Icon className="h-7 w-7" aria-hidden />
+              </div>
+              <h1 className="max-w-3xl font-heading text-4xl font-semibold tracking-tight md:text-5xl">
+                {service.title}
+              </h1>
+              <p className="mt-5 max-w-2xl text-lg text-muted">
+                {service.description}
+              </p>
+              <div className="mt-8 flex flex-wrap gap-3">
+                <Button asChild size="lg">
+                  <Link href="/contact">
+                    Book consultation
+                    <ArrowRight className="h-4 w-4" />
+                  </Link>
+                </Button>
+                {service.pricing && (
+                  <span className="inline-flex items-center rounded-xl border border-border px-4 text-sm text-muted">
+                    {service.pricing}
+                  </span>
+                )}
+              </div>
+            </Reveal>
+            <Reveal delay={0.1}>
+              <div className="relative aspect-[16/10] overflow-hidden rounded-2xl border border-border bg-card blue-glow">
+                <Image
+                  src={imageSrc}
+                  alt={`${service.shortTitle} service illustration`}
+                  fill
+                  priority
+                  sizes="(max-width: 1024px) 100vw, 50vw"
+                  className="object-cover"
+                />
+              </div>
+            </Reveal>
+          </div>
         </div>
       </section>
 
@@ -205,12 +227,23 @@ export default async function ServiceDetailPage({ params }: Props) {
                 <Link
                   key={r.slug}
                   href={`/services/${r.slug}`}
-                  className="rounded-2xl border border-border bg-card p-5 transition hover:border-primary/40"
+                  className="group overflow-hidden rounded-2xl border border-border bg-card transition hover:border-primary/40"
                 >
-                  <h3 className="font-heading font-semibold">{r.shortTitle}</h3>
-                  <p className="mt-2 line-clamp-2 text-sm text-muted">
-                    {r.description}
-                  </p>
+                  <div className="relative aspect-[16/10] border-b border-border">
+                    <Image
+                      src={getServiceImage(r.slug)}
+                      alt=""
+                      fill
+                      sizes="(max-width: 1024px) 50vw, 25vw"
+                      className="object-cover transition duration-500 group-hover:scale-[1.03]"
+                    />
+                  </div>
+                  <div className="p-5">
+                    <h3 className="font-heading font-semibold">{r.shortTitle}</h3>
+                    <p className="mt-2 line-clamp-2 text-sm text-muted">
+                      {r.description}
+                    </p>
+                  </div>
                 </Link>
               ))}
             </div>

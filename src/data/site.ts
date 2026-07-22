@@ -1,14 +1,20 @@
 export const siteConfig = {
   name: "Sajad",
   fullName: "Sajad Digital",
-  title: "Digital Marketer",
-  tagline: "Helping Businesses Grow Through Data-Driven Digital Marketing.",
+  title: "Digital Marketing Consultant in India",
+  tagline:
+    "Helping Indian businesses grow through data-driven digital marketing.",
   description:
-    "Freelance digital marketer specializing in SEO, PPC, analytics, CRO, and performance marketing. Data-driven strategies that deliver measurable ROI.",
+    "Freelance digital marketing consultant in India specializing in SEO, Google Ads, Meta Ads, analytics, CRO, and performance marketing for startups, SMEs, D2C, and local businesses. Transparent INR pricing and measurable ROI.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://sajad.digital",
   email: "hello@sajad.digital",
-  phone: "+1 (555) 012-3456",
-  location: "Available Worldwide · Remote First",
+  phone: "+91 98765 43210",
+  location: "India · Remote across IST",
+  city: "India",
+  country: "IN",
+  currency: "INR",
+  currencySymbol: "₹",
+  pricingNote: "All prices in INR. GST extra as applicable.",
   calendlyUrl: "https://calendly.com/your-link",
   social: {
     linkedin: "https://linkedin.com/in/sajad-digital",
@@ -23,13 +29,34 @@ export const siteConfig = {
     { label: "Average ROI", value: 4.2, suffix: "x", decimals: 1 },
   ],
   trustedCompanies: [
-    "NovaTech",
-    "Pulse Commerce",
-    "BrightLocal",
-    "Aether SaaS",
-    "Orbit Retail",
-    "Summit Labs",
+    "NexCart",
+    "EduSpark",
+    "Finlyte",
+    "MediLink",
+    "Homeyard",
+    "CraftKart",
+  ],
+  keywords: [
+    "digital marketing consultant India",
+    "SEO consultant India",
+    "Google Ads agency India freelance",
+    "performance marketing consultant India",
+    "Meta Ads specialist India",
+    "CRO consultant India",
+    "local SEO services India",
+    "freelance digital marketer India",
+    "SEO services for startups India",
+    "PPC management India",
   ],
 } as const;
 
 export type SiteConfig = typeof siteConfig;
+
+/** Format amount as Indian Rupees (en-IN). */
+export function formatInr(amount: number): string {
+  return new Intl.NumberFormat("en-IN", {
+    style: "currency",
+    currency: "INR",
+    maximumFractionDigits: 0,
+  }).format(amount);
+}

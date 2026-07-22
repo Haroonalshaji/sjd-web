@@ -33,9 +33,15 @@ export type Service = {
   faqs: ServiceFaq[];
   related: string[];
   pricing?: string;
+  /** Starting price in INR for schema / structured data */
+  priceFrom?: number;
   metaTitle: string;
   metaDescription: string;
 };
+
+export function getServiceImage(slug: string) {
+  return `/services/${slug}.png`;
+}
 
 export const services: Service[] = [
   {
@@ -77,7 +83,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Ahrefs", "Semrush", "Screaming Frog", "Google Search Console", "Looker Studio"],
-    industries: ["SaaS", "E-commerce", "Local Services", "Agencies", "B2B"],
+    industries: ["SaaS", "D2C / E-commerce", "Local Services", "Agencies", "B2B SMEs"],
     faqs: [
       {
         question: "How long until SEO results show?",
@@ -96,10 +102,11 @@ export const services: Service[] = [
       },
     ],
     related: ["technical-seo", "local-seo", "content-marketing", "seo-audit"],
-    pricing: "From $1,500/mo",
-    metaTitle: "SEO Services | Organic Growth Strategy | Sajad Digital",
+    pricing: "From ₹35,000/mo",
+    priceFrom: 35000,
+    metaTitle: "SEO Services | Organic Growth Strategy | India | Sajad Digital",
     metaDescription:
-      "Professional SEO services for startups, SaaS, and e-commerce. Technical SEO, content strategy, and measurable organic growth from Sajad Digital.",
+      "Professional SEO services for startups, SaaS, and e-commerce. Technical SEO, content strategy, and measurable organic growth for Indian businesses from Sajad Digital.",
   },
   {
     slug: "google-ads",
@@ -136,12 +143,12 @@ export const services: Service[] = [
       },
     ],
     tools: ["Google Ads", "Google Analytics", "Tag Manager", "Looker Studio", "Hotjar"],
-    industries: ["E-commerce", "SaaS", "Lead Gen", "Local Businesses"],
+    industries: ["D2C", "SaaS", "Lead Gen", "Local Businesses India"],
     faqs: [
       {
         question: "What's a realistic starting budget?",
         answer:
-          "Depends on niche CPC and goals. Many lead-gen accounts start effectively at $1,500–$3,000/mo in ad spend, plus management.",
+          "Depends on niche CPC and goals. Many Indian lead-gen accounts start effectively at ₹50,000–₹1,50,000/mo in ad spend, plus management fees from ₹25,000/mo.",
       },
       {
         question: "Can you take over an underperforming account?",
@@ -150,8 +157,9 @@ export const services: Service[] = [
       },
     ],
     related: ["performance-marketing", "landing-page-optimization", "conversion-rate-optimization"],
-    pricing: "From $1,200/mo + ad spend",
-    metaTitle: "Google Ads Management | PPC Consultant | Sajad Digital",
+    pricing: "From ₹25,000/mo + ad spend",
+    priceFrom: 25000,
+    metaTitle: "Google Ads Management | PPC Consultant | India | Sajad Digital",
     metaDescription:
       "Google Ads PPC management focused on ROAS and qualified leads. Search, remarketing, and conversion tracking by Sajad Digital.",
   },
@@ -190,7 +198,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Meta Ads Manager", "HubSpot", "Canva", "Hotjar", "Looker Studio"],
-    industries: ["E-commerce", "Consumer Brands", "SaaS", "Local Businesses"],
+    industries: ["D2C", "Consumer Brands", "EdTech", "Local Businesses"],
     faqs: [
       {
         question: "Organic or paid social?",
@@ -199,8 +207,9 @@ export const services: Service[] = [
       },
     ],
     related: ["performance-marketing", "content-marketing", "conversion-rate-optimization"],
-    pricing: "From $1,000/mo",
-    metaTitle: "Social Media Marketing Services | Sajad Digital",
+    pricing: "From ₹20,000/mo",
+    priceFrom: 20000,
+    metaTitle: "Social Media Marketing Services | India | Sajad Digital",
     metaDescription:
       "Social media marketing and Meta Ads strategies that grow audiences and drive conversions for brands and SaaS companies.",
   },
@@ -239,7 +248,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Google Analytics", "Tag Manager", "Looker Studio", "Google Ads", "Hotjar"],
-    industries: ["SaaS", "E-commerce", "Agencies", "B2B"],
+    industries: ["SaaS", "D2C", "Agencies", "B2B India"],
     faqs: [
       {
         question: "Do you migrate from Universal Analytics leftovers?",
@@ -248,8 +257,9 @@ export const services: Service[] = [
       },
     ],
     related: ["seo", "google-ads", "conversion-rate-optimization"],
-    pricing: "From $800 one-time / $400/mo retainer",
-    metaTitle: "Google Analytics Setup & Dashboards | Sajad Digital",
+    pricing: "From ₹15,000 setup · ₹8,000/mo",
+    priceFrom: 15000,
+    metaTitle: "Google Analytics Setup & Dashboards | India | Sajad Digital",
     metaDescription:
       "GA4, Tag Manager, and Looker Studio implementation for accurate marketing measurement and ROI reporting.",
   },
@@ -288,7 +298,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Figma", "Hotjar", "PageSpeed Insights", "Notion"],
-    industries: ["SaaS", "Startups", "Agencies", "E-commerce"],
+    industries: ["SaaS", "Indian Startups", "Agencies", "D2C"],
     faqs: [
       {
         question: "Do you design and develop?",
@@ -297,8 +307,9 @@ export const services: Service[] = [
       },
     ],
     related: ["website-development", "landing-page-optimization", "conversion-rate-optimization"],
-    pricing: "From $2,500/project",
-    metaTitle: "UI/UX Design for Conversion | Sajad Digital",
+    pricing: "From ₹40,000/project",
+    priceFrom: 40000,
+    metaTitle: "UI/UX Design for Conversion | India | Sajad Digital",
     metaDescription:
       "Premium UI/UX design for landing pages and digital products—built for clarity, trust, and conversions.",
   },
@@ -337,7 +348,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Next.js", "WordPress", "Vercel", "Figma", "PageSpeed Insights"],
-    industries: ["Agencies", "SaaS", "Local Businesses", "Consultants"],
+    industries: ["Agencies", "SaaS", "SMEs India", "Consultants"],
     faqs: [
       {
         question: "Next.js or WordPress?",
@@ -346,8 +357,9 @@ export const services: Service[] = [
       },
     ],
     related: ["website-speed-optimization", "ui-ux-design", "seo", "technical-seo"],
-    pricing: "From $3,500/project",
-    metaTitle: "Website Development | Next.js & WordPress | Sajad Digital",
+    pricing: "From ₹75,000/project",
+    priceFrom: 75000,
+    metaTitle: "Website Development | Next.js & WordPress | India | Sajad Digital",
     metaDescription:
       "High-performance website development with Next.js and WordPress. Fast, accessible, and SEO-optimized builds.",
   },
@@ -386,7 +398,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Screaming Frog", "Google Search Console", "PageSpeed Insights", "Ahrefs"],
-    industries: ["Enterprise Sites", "E-commerce", "SaaS", "Publishers"],
+    industries: ["Enterprise India", "D2C", "SaaS", "Publishers"],
     faqs: [
       {
         question: "Can you work with our developers?",
@@ -395,8 +407,9 @@ export const services: Service[] = [
       },
     ],
     related: ["seo", "website-speed-optimization", "seo-audit"],
-    pricing: "From $1,200/project",
-    metaTitle: "Technical SEO Services | Sajad Digital",
+    pricing: "From ₹25,000/project",
+    priceFrom: 25000,
+    metaTitle: "Technical SEO Services | India | Sajad Digital",
     metaDescription:
       "Technical SEO audits and implementation—crawlability, Core Web Vitals, schema, and indexation fixes.",
   },
@@ -435,7 +448,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Google Business Profile", "Semrush", "BrightLocal", "Looker Studio"],
-    industries: ["Local Services", "Healthcare", "Hospitality", "Retail"],
+    industries: ["Local Services", "Healthcare", "Hospitality", "Retail India"],
     faqs: [
       {
         question: "Multi-location support?",
@@ -444,8 +457,9 @@ export const services: Service[] = [
       },
     ],
     related: ["seo", "google-ads", "content-marketing"],
-    pricing: "From $900/mo",
-    metaTitle: "Local SEO Services | Google Business Optimization | Sajad Digital",
+    pricing: "From ₹18,000/mo",
+    priceFrom: 18000,
+    metaTitle: "Local SEO Services | Google Business Optimization | India | Sajad Digital",
     metaDescription:
       "Local SEO that wins the map pack—Google Business Profile, citations, and location pages that drive calls and visits.",
   },
@@ -484,7 +498,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Ahrefs", "Semrush", "Surfer", "HubSpot", "Google Analytics"],
-    industries: ["SaaS", "B2B", "Agencies", "Education"],
+    industries: ["SaaS", "B2B", "EdTech", "Agencies"],
     faqs: [
       {
         question: "Do you write the content?",
@@ -493,8 +507,9 @@ export const services: Service[] = [
       },
     ],
     related: ["seo", "social-media-marketing", "keyword-research"],
-    pricing: "From $1,200/mo",
-    metaTitle: "Content Marketing Strategy | Sajad Digital",
+    pricing: "From ₹25,000/mo",
+    priceFrom: 25000,
+    metaTitle: "Content Marketing Strategy | India | Sajad Digital",
     metaDescription:
       "Content marketing that builds search authority and pipeline—strategy, briefs, and performance systems.",
   },
@@ -533,7 +548,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Google Ads", "Meta Ads Manager", "HubSpot", "Looker Studio", "Hotjar"],
-    industries: ["E-commerce", "SaaS", "DTC", "Lead Generation"],
+    industries: ["D2C", "SaaS", "FinTech", "Lead Generation"],
     faqs: [
       {
         question: "Which channels do you manage?",
@@ -542,8 +557,9 @@ export const services: Service[] = [
       },
     ],
     related: ["google-ads", "social-media-marketing", "conversion-rate-optimization"],
-    pricing: "From $2,000/mo + ad spend",
-    metaTitle: "Performance Marketing Consultant | Sajad Digital",
+    pricing: "From ₹40,000/mo + ad spend",
+    priceFrom: 40000,
+    metaTitle: "Performance Marketing Consultant | India | Sajad Digital",
     metaDescription:
       "Performance marketing across Google and Meta—optimized for CAC, ROAS, and scalable customer acquisition.",
   },
@@ -582,7 +598,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Hotjar", "Google Analytics", "Looker Studio", "Figma", "PageSpeed Insights"],
-    industries: ["SaaS", "E-commerce", "Lead Gen", "Agencies"],
+    industries: ["SaaS", "D2C", "Lead Gen", "Agencies"],
     faqs: [
       {
         question: "How much traffic do I need for A/B tests?",
@@ -591,8 +607,9 @@ export const services: Service[] = [
       },
     ],
     related: ["landing-page-optimization", "ui-ux-design", "google-analytics"],
-    pricing: "From $1,500/mo",
-    metaTitle: "CRO Services | Conversion Rate Optimization | Sajad Digital",
+    pricing: "From ₹30,000/mo",
+    priceFrom: 30000,
+    metaTitle: "CRO Services | Conversion Rate Optimization | India | Sajad Digital",
     metaDescription:
       "Conversion rate optimization with research, testing, and UX improvements that lower CAC and lift revenue.",
   },
@@ -631,7 +648,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["PageSpeed Insights", "Lighthouse", "WebPageTest", "Next.js", "WordPress"],
-    industries: ["E-commerce", "Publishers", "SaaS", "Agencies"],
+    industries: ["D2C", "Publishers", "SaaS", "Agencies"],
     faqs: [
       {
         question: "How fast can improvements ship?",
@@ -640,8 +657,9 @@ export const services: Service[] = [
       },
     ],
     related: ["technical-seo", "website-development", "seo"],
-    pricing: "From $900/project",
-    metaTitle: "Website Speed Optimization | Core Web Vitals | Sajad Digital",
+    pricing: "From ₹18,000/project",
+    priceFrom: 18000,
+    metaTitle: "Website Speed Optimization | Core Web Vitals | India | Sajad Digital",
     metaDescription:
       "Website speed and Core Web Vitals optimization for better SEO, UX, and conversions.",
   },
@@ -689,8 +707,9 @@ export const services: Service[] = [
       },
     ],
     related: ["seo", "technical-seo", "keyword-research"],
-    pricing: "From $750 one-time",
-    metaTitle: "SEO Audit Services | Actionable Roadmap | Sajad Digital",
+    pricing: "From ₹12,000 one-time",
+    priceFrom: 12000,
+    metaTitle: "SEO Audit Services | Actionable Roadmap | India | Sajad Digital",
     metaDescription:
       "Comprehensive SEO audits with prioritized recommendations for technical, content, and authority growth.",
   },
@@ -729,7 +748,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Ahrefs", "Semrush", "Google Keyword Planner", "Search Console"],
-    industries: ["SaaS", "E-commerce", "Local", "B2B"],
+    industries: ["SaaS", "D2C", "Local India", "B2B"],
     faqs: [
       {
         question: "Is this useful for PPC too?",
@@ -738,8 +757,9 @@ export const services: Service[] = [
       },
     ],
     related: ["seo", "content-marketing", "google-ads"],
-    pricing: "From $500 one-time",
-    metaTitle: "Keyword Research Services | Sajad Digital",
+    pricing: "From ₹8,000 one-time",
+    priceFrom: 8000,
+    metaTitle: "Keyword Research Services | India | Sajad Digital",
     metaDescription:
       "Professional keyword research mapped to search intent and commercial value for SEO and PPC teams.",
   },
@@ -778,7 +798,7 @@ export const services: Service[] = [
       },
     ],
     tools: ["Figma", "Next.js", "Hotjar", "Google Ads", "Google Analytics"],
-    industries: ["SaaS", "Lead Gen", "E-commerce", "Agencies"],
+    industries: ["SaaS", "Lead Gen", "D2C", "Agencies"],
     faqs: [
       {
         question: "Do you write the copy?",
@@ -787,8 +807,9 @@ export const services: Service[] = [
       },
     ],
     related: ["conversion-rate-optimization", "google-ads", "ui-ux-design"],
-    pricing: "From $1,200/page",
-    metaTitle: "Landing Page Optimization | Sajad Digital",
+    pricing: "From ₹25,000/page",
+    priceFrom: 25000,
+    metaTitle: "Landing Page Optimization | India | Sajad Digital",
     metaDescription:
       "Landing page design and optimization that improves conversion rates for paid and organic traffic.",
   },

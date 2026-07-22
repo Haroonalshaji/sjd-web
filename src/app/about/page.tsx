@@ -5,11 +5,14 @@ import { SectionHeading } from "@/components/shared/section";
 import { aboutContent, tools } from "@/data/content";
 import { siteConfig } from "@/data/site";
 
+export const dynamic = "force-static";
+
 export const metadata = buildMetadata({
-  title: "About Me — Digital Marketing Consultant",
+  title: "About Sajad — Digital Marketing Consultant in India",
   description:
-    "Meet Sajad — freelance digital marketing consultant with 8+ years in SEO, PPC, analytics, and growth. Mission, values, tools, and journey.",
+    "Meet Sajad — freelance digital marketing consultant in India with 8+ years in SEO, Google Ads, Meta Ads, analytics, and growth for startups and SMEs.",
   path: "/about",
+  keywords: ["about Sajad digital marketer", "digital marketing consultant India"],
 });
 
 export default function AboutPage() {

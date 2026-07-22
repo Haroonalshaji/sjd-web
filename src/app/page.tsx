@@ -18,10 +18,17 @@ import {
 import { siteConfig } from "@/data/site";
 import { buildMetadata } from "@/lib/seo";
 
+export const dynamic = "force-static";
+
 export const metadata = buildMetadata({
-  title: `${siteConfig.fullName} | Digital Marketing Consultant`,
+  title: `${siteConfig.fullName} | Digital Marketing Consultant in India`,
   description: siteConfig.description,
   path: "/",
+  keywords: [
+    "digital marketing consultant India",
+    "freelance SEO India",
+    "Google Ads consultant India",
+  ],
 });
 
 export default function HomePage() {
@@ -40,8 +47,9 @@ export default function HomePage() {
               Marketing.
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted">
-              SEO, paid media, analytics, and CRO—executed with senior focus so
-              every dollar compounds toward qualified leads and revenue.
+              SEO, Google Ads, Meta Ads, analytics, and CRO for Indian startups,
+              SMEs, and D2C brands—executed with senior focus so every rupee
+              compounds toward qualified leads and revenue.
             </p>
             <div className="mt-9 flex flex-wrap gap-3">
               <Button asChild size="lg">

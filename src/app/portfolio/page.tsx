@@ -9,11 +9,14 @@ import { Reveal, Stagger, StaggerItem } from "@/components/shared/reveal";
 import { CaseStudyCard } from "@/components/portfolio/case-study-card";
 import { caseStudies } from "@/data/case-studies";
 
+export const dynamic = "force-static";
+
 export const metadata = buildMetadata({
-  title: "Portfolio & Case Studies",
+  title: "Portfolio & Case Studies | Digital Marketing India",
   description:
-    "SEO, Google Ads, website design, analytics, and CRO case studies with challenges, solutions, and measurable results.",
+    "SEO, Google Ads, website design, analytics, and CRO case studies with measurable results for growth-focused Indian businesses.",
   path: "/portfolio",
+  keywords: ["digital marketing case studies India", "SEO portfolio India"],
 });
 
 const categories = [

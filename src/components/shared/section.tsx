@@ -85,7 +85,7 @@ export function CtaBanner() {
               </h2>
               <p className="mt-4 text-muted">
                 Book a free consultation. We&apos;ll map opportunities, quick wins,
-                and a realistic path to ROI.
+                and a realistic path to ROI—priced in INR for Indian businesses.
               </p>
               <div className="mt-8 flex flex-wrap gap-3">
                 <Button asChild size="lg">

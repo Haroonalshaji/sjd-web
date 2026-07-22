@@ -16,11 +16,14 @@ import {
 } from "@/data/content";
 import { CheckCircle2, MessageSquare, BarChart3, Shield } from "lucide-react";
 
+export const dynamic = "force-static";
+
 export const metadata = buildMetadata({
-  title: "Why Choose Me as Your Digital Marketing Consultant",
+  title: "Why Choose Sajad as Your Digital Marketing Consultant in India",
   description:
-    "ROI-driven process, transparent reporting, fast delivery, and full-stack marketing expertise. See why businesses choose Sajad Digital.",
+    "ROI-driven process, India market fit, transparent INR reporting, and full-stack marketing. See why startups and SMEs choose Sajad Digital.",
   path: "/why-choose-me",
+  keywords: ["best digital marketing consultant India", "freelance marketer India"],
 });
 
 const extras = [

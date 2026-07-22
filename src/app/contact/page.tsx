@@ -11,11 +11,14 @@ import { Button } from "@/components/ui/button";
 import { siteConfig } from "@/data/site";
 import Link from "next/link";
 
+export const dynamic = "force-static";
+
 export const metadata = buildMetadata({
-  title: "Contact — Book a Free Consultation",
+  title: "Contact Sajad Digital | Book a Free Consultation in India",
   description:
-    "Contact Sajad Digital for SEO, PPC, analytics, and growth consulting. Book a free consultation or send project details.",
+    "Contact Sajad Digital for SEO, Google Ads, Meta Ads, and growth consulting in India. Book a free consultation. IST-friendly scheduling.",
   path: "/contact",
+  keywords: ["hire digital marketer India", "book marketing consultation India"],
 });
 
 export default function ContactPage() {
@@ -27,7 +30,7 @@ export default function ContactPage() {
       <PageHero
         eyebrow="Contact"
         title="Let’s map your next growth move"
-        description="Share a bit about your goals. I’ll reply within one business day with next steps—or book time directly."
+        description="Share a bit about your goals. I’ll reply within one business day (IST) with next steps—or book time directly."
       />
 
       <section className="section-pad">
@@ -130,7 +133,7 @@ export default function ContactPage() {
                     Remote-first. Serving clients worldwide.
                   </p>
                   <div className="mt-5 flex min-h-[180px] items-center justify-center rounded-xl border border-dashed border-border bg-background-secondary text-sm text-muted">
-                    Google Maps placeholder
+                    India · Remote across IST (map embed placeholder)
                   </div>
                 </div>
               </Reveal>
