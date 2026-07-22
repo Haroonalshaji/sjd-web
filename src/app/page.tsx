@@ -1,103 +1,281 @@
-import Image from "next/image";
+import Link from "next/link";
+import { ArrowRight, CheckCircle2 } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { StatsBar } from "@/components/shared/stats-bar";
+import { Reveal, Stagger, StaggerItem } from "@/components/shared/reveal";
+import { SectionHeading, CtaBanner } from "@/components/shared/section";
+import { ServiceCard } from "@/components/services/service-card";
+import { CaseStudyCard } from "@/components/portfolio/case-study-card";
+import { services } from "@/data/services";
+import { caseStudies } from "@/data/case-studies";
+import {
+  testimonials,
+  processSteps,
+  whyChoose,
+  insights,
+  tools,
+} from "@/data/content";
+import { siteConfig } from "@/data/site";
+import { buildMetadata } from "@/lib/seo";
 
-export default function Home() {
+export const metadata = buildMetadata({
+  title: `${siteConfig.fullName} | Digital Marketing Consultant`,
+  description: siteConfig.description,
+  path: "/",
+});
+
+export default function HomePage() {
   return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+    <>
+      {/* Hero */}
+      <section className="hero-grid relative overflow-hidden pt-28 pb-20 md:pt-36 md:pb-28">
+        <div className="container-site">
+          <Reveal>
+            <p className="mb-5 text-sm font-medium uppercase tracking-[0.2em] text-accent">
+              {siteConfig.fullName} · {siteConfig.title}
+            </p>
+            <h1 className="max-w-4xl font-heading text-4xl font-semibold leading-[1.08] tracking-tight sm:text-5xl lg:text-6xl xl:text-7xl">
+              Helping Businesses Grow Through{" "}
+              <span className="gradient-text">Data-Driven</span> Digital
+              Marketing.
+            </h1>
+            <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted">
+              SEO, paid media, analytics, and CRO—executed with senior focus so
+              every dollar compounds toward qualified leads and revenue.
+            </p>
+            <div className="mt-9 flex flex-wrap gap-3">
+              <Button asChild size="lg">
+                <Link href="/services">
+                  View Services
+                  <ArrowRight className="h-4 w-4" />
+                </Link>
+              </Button>
+              <Button asChild variant="secondary" size="lg">
+                <Link href="/contact">Book Free Consultation</Link>
+              </Button>
+            </div>
+          </Reveal>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+          <Reveal delay={0.15} className="mt-16">
+            <StatsBar />
+          </Reveal>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      </section>
+
+      {/* Trusted */}
+      <section className="border-y border-border bg-background-secondary py-10">
+        <div className="container-site">
+          <p className="mb-6 text-center text-xs uppercase tracking-[0.2em] text-muted">
+            Trusted by ambitious teams
+          </p>
+          <div className="flex flex-wrap items-center justify-center gap-x-10 gap-y-4">
+            {siteConfig.trustedCompanies.map((company) => (
+              <span
+                key={company}
+                className="font-heading text-sm font-medium tracking-wide text-muted/80 md:text-base"
+              >
+                {company}
+              </span>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Services */}
+      <section className="section-pad">
+        <div className="container-site">
+          <Reveal>
+            <div className="mb-12 flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
+              <SectionHeading
+                eyebrow="Services"
+                title="Growth systems, not random tactics"
+                description="Pick a channel—or combine them. Every engagement starts with measurement and ends with accountable results."
+              />
+              <Button asChild variant="outline">
+                <Link href="/services">All services</Link>
+              </Button>
+            </div>
+          </Reveal>
+          <Stagger className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {services.slice(0, 6).map((service) => (
+              <StaggerItem key={service.slug}>
+                <ServiceCard service={service} />
+              </StaggerItem>
+            ))}
+          </Stagger>
+        </div>
+      </section>
+
+      {/* Case studies */}
+      <section className="section-pad bg-background-secondary">
+        <div className="container-site">
+          <Reveal>
+            <div className="mb-12 flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
+              <SectionHeading
+                eyebrow="Case Studies"
+                title="Proof over promises"
+                description="Selected engagements across SEO, paid media, analytics, and conversion."
+              />
+              <Button asChild variant="outline">
+                <Link href="/portfolio">View portfolio</Link>
+              </Button>
+            </div>
+          </Reveal>
+          <Stagger className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+            {caseStudies.slice(0, 3).map((study) => (
+              <StaggerItem key={study.slug}>
+                <CaseStudyCard study={study} />
+              </StaggerItem>
+            ))}
+          </Stagger>
+        </div>
+      </section>
+
+      {/* Testimonials */}
+      <section className="section-pad">
+        <div className="container-site">
+          <Reveal>
+            <SectionHeading
+              eyebrow="Testimonials"
+              title="What partners say"
+            />
+          </Reveal>
+          <Stagger className="mt-12 grid gap-5 md:grid-cols-2">
+            {testimonials.map((t) => (
+              <StaggerItem key={t.author}>
+                <blockquote className="glass h-full rounded-2xl p-7">
+                  <p className="text-base leading-relaxed text-foreground md:text-lg">
+                    &ldquo;{t.quote}&rdquo;
+                  </p>
+                  <footer className="mt-6 border-t border-border pt-4">
+                    <cite className="not-italic">
+                      <span className="font-medium text-foreground">
+                        {t.author}
+                      </span>
+                      <span className="mt-1 block text-sm text-muted">
+                        {t.role}
+                      </span>
+                    </cite>
+                  </footer>
+                </blockquote>
+              </StaggerItem>
+            ))}
+          </Stagger>
+        </div>
+      </section>
+
+      {/* Process */}
+      <section className="section-pad bg-background-secondary">
+        <div className="container-site">
+          <Reveal>
+            <SectionHeading
+              eyebrow="Process"
+              title="A clear path from audit to ROI"
+              description="Same discipline whether we fix tracking or scale a seven-figure ad account."
+            />
+          </Reveal>
+          <Stagger className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+            {processSteps.map((step) => (
+              <StaggerItem key={step.step}>
+                <div className="rounded-2xl border border-border bg-card p-6">
+                  <span className="font-heading text-sm text-accent">
+                    {step.step}
+                  </span>
+                  <h3 className="mt-3 font-heading text-xl font-semibold">
+                    {step.title}
+                  </h3>
+                  <p className="mt-3 text-sm leading-relaxed text-muted">
+                    {step.description}
+                  </p>
+                </div>
+              </StaggerItem>
+            ))}
+          </Stagger>
+        </div>
+      </section>
+
+      {/* Why */}
+      <section className="section-pad">
+        <div className="container-site">
+          <Reveal>
+            <div className="mb-12 flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
+              <SectionHeading
+                eyebrow="Why work with me"
+                title="Agency-caliber thinking. Founder-level care."
+              />
+              <Button asChild variant="outline">
+                <Link href="/why-choose-me">See advantages</Link>
+              </Button>
+            </div>
+          </Reveal>
+          <Stagger className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {whyChoose.map((item) => (
+              <StaggerItem key={item.title}>
+                <div className="flex gap-3 rounded-2xl border border-border bg-card p-5">
+                  <CheckCircle2 className="mt-0.5 h-5 w-5 shrink-0 text-accent" />
+                  <div>
+                    <h3 className="font-heading font-semibold">{item.title}</h3>
+                    <p className="mt-2 text-sm text-muted">{item.description}</p>
+                  </div>
+                </div>
+              </StaggerItem>
+            ))}
+          </Stagger>
+        </div>
+      </section>
+
+      {/* Tools */}
+      <section className="border-y border-border py-14">
+        <div className="container-site">
+          <p className="mb-8 text-center text-xs uppercase tracking-[0.2em] text-muted">
+            Tools & technologies
+          </p>
+          <div className="flex flex-wrap justify-center gap-3">
+            {tools.map((tool) => (
+              <span
+                key={tool.name}
+                className="rounded-full border border-border bg-card px-4 py-2 text-sm text-muted"
+              >
+                {tool.name}
+              </span>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Insights */}
+      <section className="section-pad">
+        <div className="container-site">
+          <Reveal>
+            <SectionHeading
+              eyebrow="Insights"
+              title="Latest thinking"
+              description="Practical notes on SEO, paid media, and conversion—written for operators."
+            />
+          </Reveal>
+          <Stagger className="mt-12 grid gap-5 md:grid-cols-3">
+            {insights.map((post) => (
+              <StaggerItem key={post.title}>
+                <article className="h-full rounded-2xl border border-border bg-card p-6 transition hover:border-primary/40">
+                  <div className="flex items-center gap-3 text-xs text-muted">
+                    <span className="text-accent">{post.category}</span>
+                    <span>·</span>
+                    <span>{post.readTime}</span>
+                  </div>
+                  <h3 className="mt-3 font-heading text-lg font-semibold">
+                    {post.title}
+                  </h3>
+                  <p className="mt-3 text-sm leading-relaxed text-muted">
+                    {post.excerpt}
+                  </p>
+                </article>
+              </StaggerItem>
+            ))}
+          </Stagger>
+        </div>
+      </section>
+
+      <CtaBanner />
+    </>
   );
 }
