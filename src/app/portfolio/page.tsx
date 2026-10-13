@@ -1,75 +1,44 @@
+import Link from "next/link";
 import { buildMetadata, JsonLd, breadcrumbSchema } from "@/lib/seo";
-import {
-  PageHero,
-  CtaBanner,
-  Breadcrumbs,
-  SectionHeading,
-} from "@/components/shared/section";
-import { Reveal, Stagger, StaggerItem } from "@/components/shared/reveal";
-import { CaseStudyCard } from "@/components/portfolio/case-study-card";
-import { caseStudies } from "@/data/case-studies";
+import { Breadcrumbs } from "@/components/shared/section";
+import { Reveal } from "@/components/shared/reveal";
+import { Button } from "@/components/ui/button";
 
 export const dynamic = "force-static";
 
 export const metadata = buildMetadata({
-  title: "Portfolio & Case Studies | Digital Marketing India",
+  title: "Case Studies | Sajad Digital Marketer",
   description:
-    "SEO, Google Ads, website design, analytics, and CRO case studies with measurable results for growth-focused Indian businesses.",
+    "Selected marketing work from Sajad Digital Marketer. Project stories are published when the details and results can be shared.",
   path: "/portfolio",
-  keywords: ["digital marketing case studies India", "SEO portfolio India"],
 });
-
-const categories = [
-  "SEO",
-  "Google Ads",
-  "Website Design",
-  "Analytics",
-  "Performance",
-  "CRO",
-] as const;
 
 export default function PortfolioPage() {
   return (
     <>
       <JsonLd
-        data={breadcrumbSchema([{ name: "Portfolio", path: "/portfolio" }])}
+        data={breadcrumbSchema([{ name: "Case Studies", path: "/portfolio" }])}
       />
-      <PageHero
-        eyebrow="Portfolio"
-        title="Work that moved the numbers"
-        description="Selected projects across organic, paid, analytics, design, and conversion—each with challenge, solution, and results."
-      />
-
-      <section className="section-pad">
+      <section className="hero-grid border-b border-border pt-28 pb-16 md:pt-32">
         <div className="container-site">
-          <Breadcrumbs items={[{ label: "Portfolio" }]} />
+          <Breadcrumbs items={[{ label: "Case Studies" }]} />
           <Reveal>
-            <SectionHeading
-              title="Case studies by channel"
-              description="Filter mentally by what you need—every item documents the full arc from problem to proof."
-            />
+            <p className="mb-4 text-sm font-medium uppercase tracking-[0.18em] text-accent">
+              Selected Marketing Work
+            </p>
+            <h1 className="max-w-3xl font-heading text-4xl font-semibold tracking-tight md:text-5xl">
+              Case studies are added when the results can be shared
+            </h1>
+            <p className="mt-5 max-w-2xl text-lg leading-relaxed text-muted">
+              Each project starts with a different problem. Stories go on this
+              page after the work and the results are approved for publication.
+            </p>
+            <Button asChild className="mt-8" size="lg">
+              <Link href="/contact">Discuss Your Project</Link>
+            </Button>
           </Reveal>
-          <div className="mt-6 flex flex-wrap gap-2">
-            {categories.map((cat) => (
-              <span
-                key={cat}
-                className="rounded-full border border-border px-3 py-1 text-xs text-muted"
-              >
-                {cat}
-              </span>
-            ))}
-          </div>
-          <Stagger className="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
-            {caseStudies.map((study) => (
-              <StaggerItem key={study.slug}>
-                <CaseStudyCard study={study} />
-              </StaggerItem>
-            ))}
-          </Stagger>
         </div>
       </section>
-
-      <CtaBanner />
     </>
   );
 }

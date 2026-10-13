@@ -1,9 +1,9 @@
 export const siteConfig = {
   name: "Sajad",
-  fullName: "Sajad Digital",
-  title: "Digital Marketing Consultant in India",
+  fullName: "Sajad Digital Marketer",
+  title: "Digital Marketing for Small Businesses",
   tagline:
-    "Helping Indian businesses grow through data-driven digital marketing.",
+    "Helping small businesses improve their online presence through SEO, content marketing, paid advertising, website development and practical digital strategies.",
   description:
     "Freelance digital marketing consultant in India specializing in SEO, Google Ads, Meta Ads, analytics, CRO, and performance marketing for startups, SMEs, D2C, and local businesses. Transparent INR pricing and measurable ROI.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://sajad.digital",

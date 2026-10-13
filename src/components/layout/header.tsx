@@ -11,10 +11,9 @@ import { Logo } from "@/components/shared/logo";
 
 const navLinks = [
   { href: "/", label: "Home" },
-  { href: "/about", label: "About" },
   { href: "/services", label: "Services" },
-  { href: "/portfolio", label: "Portfolio" },
-  { href: "/why-choose-me", label: "Why Me" },
+  { href: "/portfolio", label: "Case Studies" },
+  { href: "/about", label: "About Sajad" },
   { href: "/contact", label: "Contact" },
 ];
 
@@ -71,7 +70,7 @@ export function Header() {
 
         <div className="hidden lg:block">
           <Button asChild size="sm">
-            <Link href="/contact">Book Consultation</Link>
+            <Link href="/contact">Book a Free Strategy Call</Link>
           </Button>
         </div>
 
@@ -108,7 +107,7 @@ export function Header() {
                 </Link>
               ))}
               <Button asChild className="mt-2">
-                <Link href="/contact">Book Consultation</Link>
+                <Link href="/contact">Book a Free Strategy Call</Link>
               </Button>
             </nav>
           </motion.div>

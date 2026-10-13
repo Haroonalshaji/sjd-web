@@ -1,0 +1,5021 @@
+[
+  {
+    "slug": "services",
+    "path": "/services",
+    "metaTitle": "Digital Marketing Services | Sajad Digital Marketer",
+    "metaDescription": "Explore SEO, content, Google Ads, Meta Ads, website development and full-service digital marketing services from Sajad Digital Marketer.",
+    "sections": [
+      {
+        "type": "hero",
+        "id": "",
+        "eyebrow": "DIGITAL MARKETING SERVICES",
+        "title": "Digital Marketing Services Built Around Your Business Goals",
+        "paragraphs": [
+          "I help startups, growing companies and established brands improve visibility, attract qualified audiences and turn more digital interactions into enquiries, sales and business growth.",
+          "From SEO and content to paid advertising, websites and landing pages, every service is planned around your audience, market and current growth priorities."
+        ],
+        "trust": [
+          "Direct Support",
+          "Connected Strategies",
+          "Transparent Reporting"
+        ],
+        "closing": "",
+        "primaryCta": {
+          "label": "Discuss Your Requirements",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Explore My Services",
+          "href": "#services"
+        },
+        "items": []
+      },
+      {
+        "type": "details",
+        "id": "services",
+        "eyebrow": "SERVICES I PROVIDE",
+        "title": "Digital Marketing Support for Visibility, Leads and Growth",
+        "paragraphs": [
+          "Your business may need one focused service or a combination of channels working together. I help identify the right priorities and build a practical digital marketing plan around your goals."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Search Engine Optimisation",
+            "paragraphs": [
+              "Improve your website’s visibility on Google and attract people actively searching for the products, services or expertise your business provides."
+            ],
+            "groups": [
+              {
+                "label": "Key areas",
+                "items": [
+                  "Technical and on-page SEO",
+                  "Keyword and content strategy",
+                  "Local and organic search visibility"
+                ]
+              }
+            ],
+            "cta": {
+              "label": "Explore SEO Services",
+              "href": "/services/seo"
+            },
+            "meta": "",
+            "step": "01"
+          },
+          {
+            "title": "Content Marketing",
+            "paragraphs": [
+              "Create useful, search-focused content that helps customers understand your offer, builds trust and supports stronger website performance."
+            ],
+            "groups": [
+              {
+                "label": "Key areas",
+                "items": [
+                  "Website and service-page content",
+                  "Blog and topic planning",
+                  "SEO and conversion-focused copy"
+                ]
+              }
+            ],
+            "cta": {
+              "label": "Explore Content Marketing",
+              "href": "/services/content-marketing"
+            },
+            "meta": "",
+            "step": "02"
+          },
+          {
+            "title": "Google Ads Management",
+            "paragraphs": [
+              "Reach potential customers when they are actively searching for a relevant product, service or solution."
+            ],
+            "groups": [
+              {
+                "label": "Key areas",
+                "items": [
+                  "Search and Performance Max campaigns",
+                  "Keyword and audience targeting",
+                  "Conversion tracking and optimisation"
+                ]
+              }
+            ],
+            "cta": {
+              "label": "Explore Google Ads Services",
+              "href": "/services/google-ads"
+            },
+            "meta": "",
+            "step": "03"
+          },
+          {
+            "title": "Meta Ads Management",
+            "paragraphs": [
+              "Connect with relevant audiences across Facebook and Instagram through campaigns designed for awareness, enquiries, remarketing and sales."
+            ],
+            "groups": [
+              {
+                "label": "Key areas",
+                "items": [
+                  "Audience and campaign strategy",
+                  "Lead-generation and sales campaigns",
+                  "Creative testing and optimisation"
+                ]
+              }
+            ],
+            "cta": {
+              "label": "Explore Meta Ads Services",
+              "href": "/services/meta-ads"
+            },
+            "meta": "",
+            "step": "04"
+          },
+          {
+            "title": "Website Development",
+            "paragraphs": [
+              "Build a professional, mobile-friendly website that clearly communicates your value and guides visitors towards the next action."
+            ],
+            "groups": [
+              {
+                "label": "Key areas",
+                "items": [
+                  "Website planning and development",
+                  "Mobile-responsive page creation",
+                  "Forms, analytics and basic SEO setup"
+                ]
+              }
+            ],
+            "cta": {
+              "label": "Explore Website Development",
+              "href": "/services/website-development"
+            },
+            "meta": "",
+            "step": "05"
+          },
+          {
+            "title": "Landing Page Development",
+            "paragraphs": [
+              "Create focused landing pages for advertising campaigns, service promotions, product launches and lead-generation activities."
+            ],
+            "groups": [
+              {
+                "label": "Key areas",
+                "items": [
+                  "Conversion-focused page structure",
+                  "Landing-page copy and development",
+                  "Form and campaign tracking setup"
+                ]
+              }
+            ],
+            "cta": {
+              "label": "Explore Landing Page Services",
+              "href": "/services/landing-page-development"
+            },
+            "meta": "",
+            "step": "06"
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "id": "",
+        "eyebrow": "COMPLETE DIGITAL MARKETING SUPPORT",
+        "title": "One Connected Strategy Across Your Digital Presence",
+        "paragraphs": [
+          "When your website, SEO, content and advertising operate separately, opportunities can be lost between channels.",
+          "Full-service digital marketing brings these activities together under one focused plan. I help manage the complete journey, from improving visibility and attracting the right audience to strengthening website conversion and measuring performance."
+        ],
+        "trust": [
+          "SEO and content marketing",
+          "Google Ads and Meta Ads",
+          "Website and landing-page improvements",
+          "Analytics and conversion tracking",
+          "Reporting and continuous optimisation"
+        ],
+        "closing": "",
+        "primaryCta": {
+          "label": "Request a Complete Marketing Strategy",
+          "href": "/contact"
+        },
+        "secondaryCta": null,
+        "items": []
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "WHAT DO YOU WANT TO IMPROVE?",
+        "title": "Start With the Outcome Your Business Needs",
+        "paragraphs": [
+          "You do not need to know the exact service before contacting me. Begin with the result you want to achieve."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Improve Search Visibility",
+            "paragraphs": [
+              "For businesses that want stronger Google rankings, better local visibility and more organic website traffic."
+            ],
+            "groups": [],
+            "cta": {
+              "label": "Improve My Visibility",
+              "href": "/contact"
+            },
+            "meta": "Recommended services: SEO | Content Marketing"
+          },
+          {
+            "title": "Generate More Qualified Leads",
+            "paragraphs": [
+              "For businesses that want more enquiries, appointments, registrations or sales opportunities through paid campaigns."
+            ],
+            "groups": [],
+            "cta": {
+              "label": "Generate More Leads",
+              "href": "/contact"
+            },
+            "meta": "Recommended services: Google Ads | Meta Ads | Landing Pages"
+          },
+          {
+            "title": "Improve Website Performance",
+            "paragraphs": [
+              "For businesses with an outdated website, unclear messaging or low visitor-to-enquiry conversion."
+            ],
+            "groups": [],
+            "cta": {
+              "label": "Improve My Website",
+              "href": "/contact"
+            },
+            "meta": "Recommended services: Website Development | Landing Pages | Content"
+          },
+          {
+            "title": "Build a Complete Growth Strategy",
+            "paragraphs": [
+              "For businesses that need multiple digital channels working together under one structured plan."
+            ],
+            "groups": [],
+            "cta": {
+              "label": "Build My Growth Strategy",
+              "href": "/contact"
+            },
+            "meta": "Recommended service: Full-Service Digital Marketing"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "WHY WORK WITH ME",
+        "title": "Direct Support With a Clear View of Your Digital Growth",
+        "paragraphs": [
+          "I work directly with founders, business owners and marketing teams to understand what is limiting performance and which services should be prioritised.",
+          "The goal is not to add unnecessary marketing activities. It is to create a clear scope of work that fits your audience, business stage and growth objectives."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Direct Communication",
+            "paragraphs": [
+              "You work directly with the person reviewing, planning and managing your digital marketing."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Connected Execution",
+            "paragraphs": [
+              "SEO, content, paid campaigns and website improvements support the same customer journey."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Flexible Support",
+            "paragraphs": [
+              "Begin with one service or combine several based on your current priorities and internal capabilities."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Clear Reporting",
+            "paragraphs": [
+              "Understand what has been completed, how performance is changing and what needs to happen next."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "id": "",
+        "eyebrow": "HOW I WORK",
+        "title": "A Clear Process From Requirement to Improvement",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Discover",
+            "paragraphs": [
+              "We discuss your business, audience, competition, current marketing activities and objectives."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "01"
+          },
+          {
+            "title": "Review",
+            "paragraphs": [
+              "I assess the relevant website pages, content, campaigns, tracking and conversion journey."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "02"
+          },
+          {
+            "title": "Execute",
+            "paragraphs": [
+              "The agreed SEO, advertising, content or website activities are prepared and implemented."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "03"
+          },
+          {
+            "title": "Improve",
+            "paragraphs": [
+              "Performance is reviewed, weak areas are corrected and successful activities are refined or expanded."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "04"
+          }
+        ]
+      },
+      {
+        "type": "faq",
+        "id": "",
+        "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+        "title": "Common Questions About My Digital Marketing Services",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Which digital marketing service should I choose?",
+            "paragraphs": [
+              "The right service depends on your current challenge and objective. SEO may support long-term visibility, while Google Ads can help reach active searchers more quickly. A review of your website and existing marketing can identify the right starting point."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can I combine multiple services?",
+            "paragraphs": [
+              "Yes. Services can be delivered individually or combined. Common combinations include SEO with content marketing, Google Ads with landing pages and website development with SEO."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do you offer one-time and ongoing services?",
+            "paragraphs": [
+              "Yes. Website projects, audits and landing pages may be completed as one-time assignments. SEO, content marketing and advertising usually benefit from ongoing management and improvement."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you audit my existing marketing?",
+            "paragraphs": [
+              "Yes. I can review your website, SEO, content, Google Ads, Meta Ads and tracking setup before recommending the areas that should be prioritised."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How are service costs calculated?",
+            "paragraphs": [
+              "Pricing depends on the service, project scope, current setup, expected deliverables and level of ongoing support. A customised proposal is provided after reviewing your requirements."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How do I get started?",
+            "paragraphs": [
+              "Book a strategy call or send your website and current marketing requirements through the enquiry form. I will review the information and recommend the most practical next step."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "id": "",
+        "eyebrow": "LET’S DISCUSS YOUR REQUIREMENTS",
+        "title": "Not Sure Which Digital Marketing Service You Need?",
+        "paragraphs": [
+          "Share your website, current challenges and business goals. I will help you identify the right starting point and recommend the services that can create the strongest impact."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": {
+          "label": "Book a Free Strategy Call",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Chat With Sajad",
+          "href": "/contact"
+        },
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "seo",
+    "path": "/services/seo",
+    "metaTitle": "SEO Services | Sajad Digital Marketer",
+    "metaDescription": "Improve Google visibility, organic traffic and enquiries with technical SEO, content optimisation and local SEO services from Sajad Digital Marketer.",
+    "sections": [
+      {
+        "type": "hero",
+        "id": "",
+        "eyebrow": "SEO SERVICES",
+        "title": "SEO Services That Help the Right Customers Find Your Business",
+        "paragraphs": [
+          "I help startups, growing companies and established brands improve their visibility on Google, attract relevant organic traffic and turn search demand into meaningful business opportunities.",
+          "My SEO services combine technical improvements, keyword research, website structure, content optimisation and performance tracking to build a stronger and more sustainable search presence."
+        ],
+        "trust": [
+          "Search strategies built around business goals",
+          "Clear recommendations and reporting",
+          "Technical, content and conversion-focused SEO"
+        ],
+        "closing": "",
+        "primaryCta": {
+          "label": "Request an SEO Consultation",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "View SEO Services",
+          "href": "#services"
+        },
+        "items": []
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "COMMON SEO CHALLENGES",
+        "title": "Is Your Website Missing Valuable Search Opportunities?",
+        "paragraphs": [
+          "A website can look professional and still remain difficult to find on Google. Technical issues, weak service pages, poor keyword targeting and unclear site structure can limit your ability to reach potential customers."
+        ],
+        "trust": [],
+        "closing": "I identify the technical, content and structural gaps affecting your search performance and create a clear SEO plan around visibility, relevance and conversion.",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Your Website Is Not Ranking for Important Searches",
+            "paragraphs": [
+              "Your business may not appear when people search for your services, products, solutions or locations."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Organic Traffic Is Low or Unfocused",
+            "paragraphs": [
+              "Your website may receive limited traffic, or visitors may arrive through keywords that do not match your business goals."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Important Pages Are Not Performing",
+            "paragraphs": [
+              "Service, product or location pages may lack the content structure, relevance and internal support needed to rank effectively."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Competitors Are Appearing Above You",
+            "paragraphs": [
+              "Competing businesses may have stronger content, clearer site architecture, better local visibility or more established search authority."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Technical Issues Are Limiting Visibility",
+            "paragraphs": [
+              "Indexing problems, slow pages, duplicated content, broken links or poor mobile performance can make it harder for search engines to understand your website."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "SEO Work Is Not Connected to Enquiries",
+            "paragraphs": [
+              "Rankings and traffic may improve without producing enough calls, form submissions, sales or qualified business conversations."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "MY SEO APPROACH",
+        "title": "SEO Built Around Search Intent, Website Quality and Business Outcomes",
+        "paragraphs": [
+          "SEO is not only about adding keywords to a website. Strong search performance depends on how well your website answers customer needs, communicates relevance and provides a clear experience across every important page.",
+          "My approach connects four essential areas:"
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Technical Strength",
+            "paragraphs": [
+              "Make it easier for search engines to access, understand and index your website correctly."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Search Relevance",
+            "paragraphs": [
+              "Target the topics, services and searches that closely match what your audience is looking for."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Content Quality",
+            "paragraphs": [
+              "Create and improve pages that provide clear, useful and trustworthy information."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Conversion Journey",
+            "paragraphs": [
+              "Guide organic visitors towards the next action, whether that is an enquiry, call, appointment, registration or purchase."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "services",
+        "eyebrow": "SEO SERVICES I PROVIDE",
+        "title": "Complete SEO Support for Stronger Organic Visibility",
+        "paragraphs": [
+          "The exact scope depends on your website, market and current search performance. Services can be delivered individually or combined under an ongoing SEO plan."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "SEO Audit and Opportunity Analysis",
+            "paragraphs": [
+              "A detailed SEO audit identifies the technical, structural and content issues affecting your website’s visibility.",
+              "The audit provides a practical view of what is working, what is limiting performance and which improvements should be prioritised first."
+            ],
+            "groups": [
+              {
+                "label": "The review may cover",
+                "items": [
+                  "Website crawlability and indexation",
+                  "Technical SEO errors",
+                  "Website structure",
+                  "Page-level optimisation",
+                  "Keyword targeting",
+                  "Content gaps",
+                  "Internal linking",
+                  "Mobile performance",
+                  "Competitor visibility",
+                  "Conversion opportunities"
+                ]
+              }
+            ],
+            "cta": {
+              "label": "Request an SEO Audit",
+              "href": "/contact"
+            },
+            "meta": ""
+          },
+          {
+            "title": "Keyword and Search Intent Research",
+            "paragraphs": [
+              "Keyword research identifies how potential customers search for your products, services, problems and solutions.",
+              "The focus is not on collecting the largest possible keyword list. It is on finding relevant search opportunities that match your offer, audience and business goals."
+            ],
+            "groups": [
+              {
+                "label": "Keyword research may include",
+                "items": [
+                  "Commercial search terms",
+                  "Informational queries",
+                  "Local search terms",
+                  "Service and product keywords",
+                  "Competitor keyword analysis",
+                  "Long-tail search opportunities",
+                  "Keyword grouping",
+                  "Page-to-keyword mapping"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "On-Page SEO",
+            "paragraphs": [
+              "On-page SEO improves the relevance, structure and clarity of individual website pages.",
+              "Each important page is reviewed to ensure that search engines and visitors can quickly understand what the page is about and why it is useful."
+            ],
+            "groups": [
+              {
+                "label": "On-page improvements may include",
+                "items": [
+                  "SEO titles",
+                  "Meta descriptions",
+                  "Heading structure",
+                  "Page content",
+                  "Keyword placement",
+                  "Internal links",
+                  "Image optimisation",
+                  "URL structure",
+                  "Schema recommendations",
+                  "CTA and conversion improvements"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Technical SEO",
+            "paragraphs": [
+              "Technical SEO improves the underlying setup that supports crawling, indexing, performance and user experience.",
+              "Technical issues can prevent strong content from appearing effectively in search results."
+            ],
+            "groups": [
+              {
+                "label": "Technical SEO may include",
+                "items": [
+                  "Crawl error review",
+                  "Indexation checks",
+                  "Sitemap review",
+                  "Robots.txt review",
+                  "Canonical implementation",
+                  "Broken link fixes",
+                  "Redirect review",
+                  "Duplicate content issues",
+                  "Core Web Vitals recommendations",
+                  "Mobile usability",
+                  "Structured data recommendations",
+                  "HTTPS and security checks"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "SEO Content Strategy",
+            "paragraphs": [
+              "SEO content strategy identifies which pages and topics your website needs to attract relevant search demand.",
+              "This can include improving existing pages, creating new service pages or developing useful articles that support both search visibility and customer understanding."
+            ],
+            "groups": [
+              {
+                "label": "Content strategy may include",
+                "items": [
+                  "Topic and keyword planning",
+                  "Service-page recommendations",
+                  "Location-page planning",
+                  "Blog content strategy",
+                  "Content briefs",
+                  "Content gap analysis",
+                  "Existing content refreshes",
+                  "Internal-linking opportunities",
+                  "Content production schedules"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Service Page SEO",
+            "paragraphs": [
+              "Service pages are often the most commercially important pages on a business website.",
+              "I help strengthen these pages so they target relevant searches, explain the service clearly and encourage visitors to take the next step."
+            ],
+            "groups": [
+              {
+                "label": "Service-page SEO may include",
+                "items": [
+                  "Search intent analysis",
+                  "Keyword mapping",
+                  "Content restructuring",
+                  "Heading improvements",
+                  "FAQ recommendations",
+                  "Internal links",
+                  "CTA improvements",
+                  "Metadata",
+                  "Location relevance",
+                  "Supporting content recommendations"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Local SEO",
+            "paragraphs": [
+              "Local SEO helps businesses improve visibility among people searching within a specific city, region or service area.",
+              "This is suitable for businesses that depend on local enquiries, appointments, store visits or location-based service demand."
+            ],
+            "groups": [
+              {
+                "label": "Local SEO services may include",
+                "items": [
+                  "Google Business Profile optimisation",
+                  "Local keyword research",
+                  "Local landing pages",
+                  "Location-page optimisation",
+                  "Local citation review",
+                  "Business information consistency",
+                  "Review strategy recommendations",
+                  "Google Maps visibility improvements",
+                  "Local competitor analysis"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Ecommerce SEO",
+            "paragraphs": [
+              "Ecommerce SEO helps product and category pages appear for relevant commercial searches.",
+              "The strategy focuses on improving product discovery, website structure and search visibility across important categories."
+            ],
+            "groups": [
+              {
+                "label": "Ecommerce SEO may include",
+                "items": [
+                  "Category-page optimisation",
+                  "Product-page recommendations",
+                  "Ecommerce keyword research",
+                  "Duplicate content review",
+                  "Product schema recommendations",
+                  "Internal linking",
+                  "Faceted navigation review",
+                  "Technical ecommerce SEO",
+                  "Blog and buying-guide strategy",
+                  "Conversion-focused content recommendations"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "SEO Reporting and Performance Tracking",
+            "paragraphs": [
+              "SEO reporting should explain what has changed and what actions should happen next.",
+              "I track performance using relevant search and analytics platforms and provide clear updates on visibility, traffic, page performance and enquiries."
+            ],
+            "groups": [
+              {
+                "label": "Reporting may include",
+                "items": [
+                  "Keyword visibility",
+                  "Organic traffic",
+                  "Landing-page performance",
+                  "Search impressions and clicks",
+                  "Technical improvements completed",
+                  "Content performance",
+                  "Conversion activity",
+                  "Opportunities and next actions"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "WHAT SEO CAN IMPROVE",
+        "title": "Build a Stronger Organic Search Presence Over Time",
+        "paragraphs": [
+          "A well-planned SEO strategy can support several areas of digital growth."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Better Search Visibility",
+            "paragraphs": [
+              "Improve how frequently your website appears for relevant services, products, topics and locations."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "More Relevant Organic Traffic",
+            "paragraphs": [
+              "Attract visitors whose search intent is more closely connected to your business."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Stronger Website Structure",
+            "paragraphs": [
+              "Create a clearer relationship between services, categories, locations and supporting content."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Better Customer Understanding",
+            "paragraphs": [
+              "Use clear, useful content to answer questions and explain the value of your offer."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "More Organic Enquiries",
+            "paragraphs": [
+              "Improve the journey from search result to website visit and from website visit to action."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Reduced Dependence on Paid Traffic",
+            "paragraphs": [
+              "Build a stronger long-term source of website visibility alongside paid advertising."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "id": "",
+        "eyebrow": "HOW I WORK",
+        "title": "A Clear SEO Process From Audit to Ongoing Improvement",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Business and Website Discovery",
+            "paragraphs": [
+              "We begin by discussing your business, target audience, priority services, competitors, locations and current SEO challenges."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "01"
+          },
+          {
+            "title": "SEO Audit",
+            "paragraphs": [
+              "I review your website’s technical setup, content, structure, search visibility and current performance."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "02"
+          },
+          {
+            "title": "Keyword and Competitor Research",
+            "paragraphs": [
+              "Relevant search opportunities are identified and compared with the pages and strategies used by competing websites."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "03"
+          },
+          {
+            "title": "SEO Strategy",
+            "paragraphs": [
+              "A focused plan is created covering technical improvements, page optimisation, content priorities and performance tracking."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "04"
+          },
+          {
+            "title": "Implementation",
+            "paragraphs": [
+              "The agreed technical, on-page, content and local SEO activities are completed according to priority."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "05"
+          },
+          {
+            "title": "Measurement and Optimisation",
+            "paragraphs": [
+              "Search performance is reviewed regularly so that strong areas can be expanded and weaker areas can be improved."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "06"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "BUSINESSES I SUPPORT",
+        "title": "SEO Strategies Adapted to Different Markets",
+        "paragraphs": [
+          "The right SEO approach depends on how your customers search, what they need to understand and which pages influence their decisions."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Startups and Technology Companies",
+            "paragraphs": [
+              "Build visibility around new products, solutions, categories and customer problems while creating a scalable website structure."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Ecommerce and Retail Brands",
+            "paragraphs": [
+              "Improve search visibility across categories, products, collections, buying guides and commercial content."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Real Estate Companies",
+            "paragraphs": [
+              "Target property searches, locations, project types and buyer intent through service, project and location pages."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Healthcare and Wellness Businesses",
+            "paragraphs": [
+              "Improve the visibility and clarity of service pages while maintaining responsible and accurate communication."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "B2B Companies",
+            "paragraphs": [
+              "Target longer and more complex search journeys through solution pages, service content, industry pages and educational resources."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Professional Services",
+            "paragraphs": [
+              "Build authority and attract qualified enquiries for consulting, finance, technology, legal and expertise-led services."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Education and Training Organisations",
+            "paragraphs": [
+              "Improve course, programme and location visibility for searches from students, parents and working professionals."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Established Local Brands",
+            "paragraphs": [
+              "Strengthen local search visibility, Google Business Profile performance and location-specific website relevance."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "WHY WORK WITH ME",
+        "title": "Direct SEO Support With Clear Priorities and Practical Recommendations",
+        "paragraphs": [
+          "SEO can become confusing when technical issues, content, keywords and reporting are handled separately.",
+          "I help bring these areas together into one clear plan based on what your website needs most."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Direct Communication",
+            "paragraphs": [
+              "You work directly with the person reviewing your website, planning the strategy and managing the SEO work."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Business-Relevant Keyword Targeting",
+            "paragraphs": [
+              "Keyword decisions are connected to your services, products, locations and customer intent rather than search volume alone."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Technical and Content Integration",
+            "paragraphs": [
+              "Technical improvements, page optimisation and content planning are treated as connected parts of the same strategy."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Clear Prioritisation",
+            "paragraphs": [
+              "Recommendations are organised by importance so you can understand what should be addressed first."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Transparent Reporting",
+            "paragraphs": [
+              "Reports explain what was completed, how performance changed and which opportunities should be explored next."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Conversion-Focused SEO",
+            "paragraphs": [
+              "The work does not stop at rankings. Important pages are also reviewed for clarity, trust and enquiry opportunities."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "RELATED SERVICES",
+        "title": "Strengthen Your SEO With Connected Digital Services",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Content Marketing",
+            "paragraphs": [
+              "Create and improve website content that supports search visibility, customer understanding and topical authority."
+            ],
+            "groups": [],
+            "cta": {
+              "label": "Explore Content Marketing",
+              "href": "/services/content-marketing"
+            },
+            "meta": ""
+          },
+          {
+            "title": "Website Development",
+            "paragraphs": [
+              "Build or improve the technical structure, mobile experience and conversion journey of your website."
+            ],
+            "groups": [],
+            "cta": {
+              "label": "Explore Website Development",
+              "href": "/services/website-development"
+            },
+            "meta": ""
+          },
+          {
+            "title": "Google Ads Management",
+            "paragraphs": [
+              "Use paid search to reach high-intent customers while your organic search visibility develops."
+            ],
+            "groups": [],
+            "cta": {
+              "label": "Explore Google Ads",
+              "href": "/services/google-ads"
+            },
+            "meta": ""
+          },
+          {
+            "title": "Landing Page Development",
+            "paragraphs": [
+              "Create focused pages for important services, offers, campaigns and conversion goals."
+            ],
+            "groups": [],
+            "cta": {
+              "label": "Explore Landing Pages",
+              "href": "/services/landing-page-development"
+            },
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "faq",
+        "id": "",
+        "eyebrow": "SEO QUESTIONS",
+        "title": "Frequently Asked Questions About SEO Services",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "What are SEO services?",
+            "paragraphs": [
+              "SEO services improve how a website is discovered and understood by search engines. They may include technical SEO, keyword research, on-page optimisation, content planning, local SEO, internal linking and performance tracking."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How long does SEO take to show results?",
+            "paragraphs": [
+              "SEO timelines depend on the website’s current condition, competition, market, content quality and technical setup. Some improvements may appear earlier, while stronger and more consistent growth usually requires ongoing work over several months."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you guarantee first-page rankings?",
+            "paragraphs": [
+              "No responsible SEO professional can guarantee a specific ranking position. Search results depend on competition, search algorithms, website quality and many external factors. The focus should be on consistent improvements in relevance, visibility, traffic and conversions."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do I need ongoing SEO?",
+            "paragraphs": [
+              "Ongoing SEO is recommended for businesses operating in competitive or changing markets. Search behaviour, competitors, content and website performance change over time, so continued optimisation helps maintain and improve visibility."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you work on my existing website?",
+            "paragraphs": [
+              "Yes. I can review and optimise an existing website when the platform and technical setup allow the required changes. The first step is usually an SEO audit to identify the most important issues."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do you provide local SEO?",
+            "paragraphs": [
+              "Yes. Local SEO support can include Google Business Profile optimisation, local keyword research, location-page optimisation, citation review and Google Maps visibility recommendations."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do you provide ecommerce SEO?",
+            "paragraphs": [
+              "Yes. Ecommerce SEO can include category-page optimisation, product-page recommendations, technical reviews, internal linking, content planning and structured data recommendations."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Is content necessary for SEO?",
+            "paragraphs": [
+              "Content is important because it helps search engines and potential customers understand your services, products and expertise. The exact content required depends on the website and search opportunities."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can SEO and Google Ads be used together?",
+            "paragraphs": [
+              "Yes. SEO and Google Ads can support the same search strategy. Ads can provide more immediate visibility, while SEO builds a stronger long-term organic presence."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How do you measure SEO performance?",
+            "paragraphs": [
+              "Performance can be measured through search visibility, impressions, clicks, organic traffic, keyword movement, landing-page engagement and enquiries or sales generated through organic search."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How much do SEO services cost?",
+            "paragraphs": [
+              "SEO pricing depends on the website size, market competition, current issues, number of pages, locations and level of ongoing support. A customised proposal is provided after reviewing your requirements."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How do I get started?",
+            "paragraphs": [
+              "Share your website and business goals through the enquiry form or book an initial consultation. I will review your requirements and recommend the most practical starting point."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "id": "",
+        "eyebrow": "START YOUR SEO PROJECT",
+        "title": "Ready to Improve Your Website’s Search Visibility?",
+        "paragraphs": [
+          "Share your website, priority services and current SEO challenges. I will review your requirements and help you identify the most important opportunities for stronger organic growth."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": {
+          "label": "Request an SEO Consultation",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Chat With Sajad",
+          "href": "/contact"
+        },
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "google-ads",
+    "path": "/services/google-ads",
+    "metaTitle": "Google Ads Management | Sajad Digital Marketer",
+    "metaDescription": "Generate qualified leads and sales with Google Ads campaign planning, conversion tracking and performance-focused management from Sajad.",
+    "sections": [
+      {
+        "type": "hero",
+        "id": "",
+        "eyebrow": "GOOGLE ADS MANAGEMENT",
+        "title": "Google Ads Campaigns Built to Generate Better Business Opportunities",
+        "paragraphs": [
+          "I plan and manage Google Ads campaigns that help startups, growing companies and established brands reach relevant customers, control advertising spend and measure the actions that matter.",
+          "From high-intent Search campaigns to Performance Max, Shopping, Demand Gen and YouTube advertising, every campaign is aligned with your audience, offer, budget and business goals."
+        ],
+        "trust": [
+          "Goal-focused campaign planning",
+          "Conversion tracking and measurement",
+          "Transparent budget management"
+        ],
+        "closing": "",
+        "primaryCta": {
+          "label": "Request a Google Ads Consultation",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Explore Campaign Types",
+          "href": "#details"
+        },
+        "items": []
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "COMMON CAMPAIGN CHALLENGES",
+        "title": "Are Your Google Ads Producing Clicks but Not Enough Business?",
+        "paragraphs": [
+          "A campaign can generate traffic without delivering enough qualified enquiries or sales. Poor search targeting, weak conversion tracking, unclear advertisements and disconnected landing pages can all reduce the value of your advertising budget."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "High Advertising Costs",
+            "paragraphs": [
+              "Campaigns may consume budget without producing enough relevant enquiries, bookings or purchases."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Irrelevant Clicks",
+            "paragraphs": [
+              "Your advertisements may appear for searches or audiences that do not closely match your offer."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Weak Conversion Tracking",
+            "paragraphs": [
+              "Clicks may be recorded, but important actions such as calls, forms, purchases and qualified leads may not be measured correctly."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Low Landing-Page Conversion",
+            "paragraphs": [
+              "People may click your advertisements but leave because the destination page is unclear, slow or poorly aligned with the campaign."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "accordion",
+        "id": "details",
+        "eyebrow": "CAMPAIGN TYPES",
+        "title": "Understanding the Different Types of Google Ads Campaigns",
+        "paragraphs": [
+          "Google Ads provides several campaign types for reaching users across Search, YouTube, websites, applications, shopping results and Google-owned feeds. The right choice depends on whether your objective is to capture existing demand, generate new interest, promote products, increase app usage or reconnect with previous visitors."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Search Campaigns",
+            "paragraphs": [
+              "Search campaigns display text-based advertisements around relevant Google searches. They are primarily used to reach people who are already looking for a product, service, provider or solution connected to your business.",
+              "Search campaigns offer direct control over areas such as keywords, search terms, advertisement messaging, locations and negative keywords.",
+              "Google describes Search campaigns as a way to show advertisements around relevant searches across its Search Network."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Lead generation",
+                  "Local services",
+                  "Professional services",
+                  "B2B enquiries",
+                  "High-intent product searches",
+                  "Appointment and quote requests"
+                ]
+              },
+              {
+                "label": "Campaign support can include",
+                "items": [
+                  "Keyword and search-intent research",
+                  "Campaign and ad-group structure",
+                  "Responsive search advertisements",
+                  "Negative keyword development",
+                  "Location and schedule targeting",
+                  "Search-term optimisation",
+                  "Budget and bidding reviews"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Performance Max Campaigns",
+            "paragraphs": [
+              "Performance Max is a goal-based campaign type that can access Google advertising inventory across channels such as Search, YouTube, Display, Discover, Gmail and Maps from one campaign.",
+              "Rather than controlling each placement independently, advertisers provide conversion goals, audience signals, creative assets, budgets and business information. Google then uses automation to identify opportunities across its inventory.",
+              "Performance Max is designed to complement keyword-based Search campaigns while accessing inventory across Google’s channels."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Lead generation across multiple Google channels",
+                  "Ecommerce sales",
+                  "Store visits and local promotion",
+                  "Businesses with reliable conversion tracking",
+                  "Advertisers with strong image and video assets"
+                ]
+              },
+              {
+                "label": "Campaign support can include",
+                "items": [
+                  "Goal and conversion review",
+                  "Asset-group planning",
+                  "Audience signals",
+                  "Search themes",
+                  "Creative asset coordination",
+                  "Product-feed alignment",
+                  "Geographic targeting",
+                  "Budget and bidding optimisation"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Demand Gen Campaigns",
+            "paragraphs": [
+              "Demand Gen campaigns use visually engaging image, video and product advertisements to reach users while they browse Google’s feed-based and visual environments.",
+              "They can serve across placements including YouTube, YouTube Shorts, Discover, Gmail, Maps and the Google Display Network. These campaigns are useful when potential customers may not yet be actively searching but could respond to a relevant message or offer.",
+              "Demand Gen campaigns are designed to drive engagement and action across Google’s major visual and feed-based surfaces."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Creating product or service demand",
+                  "Reaching new audiences",
+                  "Remarketing",
+                  "Ecommerce discovery",
+                  "Visual brand storytelling",
+                  "Moving users from awareness towards conversion"
+                ]
+              },
+              {
+                "label": "Campaign support can include",
+                "items": [
+                  "Audience and customer-segment planning",
+                  "Image and video asset recommendations",
+                  "Product-feed integration",
+                  "Remarketing audience setup",
+                  "Campaign testing",
+                  "Conversion-goal configuration",
+                  "Landing-page alignment"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Shopping Campaigns",
+            "paragraphs": [
+              "Shopping campaigns promote ecommerce products using information submitted through Google Merchant Center.",
+              "Rather than relying mainly on standard text advertisements, Shopping ads can display product details such as the image, title, price and store name. This helps users understand the offer before visiting the website.",
+              "Shopping campaigns require accurate product information, clear conversion measurement and a website that supports a reliable purchasing experience."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Ecommerce stores",
+                  "Retail brands",
+                  "Product catalogues",
+                  "Category-level promotion",
+                  "Price-sensitive commercial searches"
+                ]
+              },
+              {
+                "label": "Campaign support can include",
+                "items": [
+                  "Google Merchant Center review",
+                  "Product-feed checks",
+                  "Product-title recommendations",
+                  "Product grouping",
+                  "Shopping campaign structure",
+                  "Conversion-value tracking",
+                  "Product-level performance reviews",
+                  "Product disapproval analysis"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Video Campaigns",
+            "paragraphs": [
+              "Video campaigns allow businesses to advertise through video content on YouTube and participating Google video partners.",
+              "Depending on the selected objective and format, video can support reach, awareness, product consideration, website visits and selected conversion goals.",
+              "Google notes that Video campaigns can display advertisements across YouTube and websites or applications using Google video partners."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Brand awareness",
+                  "Product demonstrations",
+                  "Service explanations",
+                  "Promotional offers",
+                  "YouTube remarketing",
+                  "Reaching audiences through Shorts",
+                  "Building familiarity before a search or purchase"
+                ]
+              },
+              {
+                "label": "Campaign support can include",
+                "items": [
+                  "Campaign objective selection",
+                  "Audience targeting",
+                  "Video advertisement copy",
+                  "CTA planning",
+                  "Placement recommendations",
+                  "Remarketing",
+                  "Budget and bidding setup",
+                  "Performance measurement"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Display Campaigns",
+            "paragraphs": [
+              "Display campaigns use visual advertisements across websites, applications and Google Display Network placements.",
+              "They can support broad reach, visual promotion and remarketing. Display campaigns generally target audiences, placements, topics or user behaviour rather than relying only on active search terms.",
+              "Display should be planned carefully because broad targeting can generate visibility without necessarily producing qualified business outcomes."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Remarketing",
+                  "Brand awareness",
+                  "Visual promotions",
+                  "Event or offer awareness",
+                  "Reaching defined audience groups",
+                  "Supporting a longer customer journey"
+                ]
+              },
+              {
+                "label": "Campaign support can include",
+                "items": [
+                  "Audience planning",
+                  "Remarketing lists",
+                  "Placement reviews",
+                  "Creative requirements",
+                  "Frequency monitoring",
+                  "Audience exclusions",
+                  "Conversion tracking",
+                  "Campaign optimisation"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "App Campaigns",
+            "paragraphs": [
+              "App campaigns are designed to promote mobile applications across Google properties such as Search, Google Play, YouTube, Discover and the Display Network.",
+              "Advertisers provide basic text, images, videos and campaign goals. Google then automatically creates and serves different advertisement combinations.",
+              "Google states that App campaigns can promote applications across several of its largest properties, including Search, Play, YouTube, Discover and the Display Network."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "App installations",
+                  "App engagement",
+                  "In-app actions",
+                  "Pre-registration campaigns",
+                  "Mobile-first products and services"
+                ]
+              },
+              {
+                "label": "Campaign support can include",
+                "items": [
+                  "Campaign-goal selection",
+                  "App conversion setup",
+                  "Text and creative asset planning",
+                  "Geographic targeting",
+                  "Budget and bidding configuration",
+                  "Install or engagement measurement"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Which Campaign Type Should You Choose?",
+            "paragraphs": [
+              "The right campaign type depends on the customer journey and the result you want to generate.",
+              "A business may use more than one campaign type, but each campaign should have a clear purpose. Adding more campaign types does not automatically improve performance."
+            ],
+            "groups": [
+              {
+                "label": "Business objective / Recommended campaign type",
+                "items": [
+                  "Capture active customer searches — Search",
+                  "Generate leads across Google channels — Performance Max",
+                  "Promote ecommerce products — Shopping or Performance Max",
+                  "Reach visually engaged audiences — Demand Gen",
+                  "Build awareness through video — Video",
+                  "Reconnect with website visitors — Demand Gen or Display",
+                  "Promote a mobile application — App"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "MY CAMPAIGN APPROACH",
+        "title": "Google Ads Management Focused on More Than Clicks",
+        "paragraphs": [
+          "Campaign performance is reviewed across the complete journey, from the search or audience interaction to the advertisement, landing page and final conversion."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Intent",
+            "paragraphs": [
+              "Target searches and audiences that closely match what your business provides."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Relevance",
+            "paragraphs": [
+              "Connect targeting, advertisement messaging and landing-page content clearly."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Measurement",
+            "paragraphs": [
+              "Track valuable actions such as enquiries, calls, bookings, registrations and purchases."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Optimisation",
+            "paragraphs": [
+              "Use performance findings to improve targeting, advertisements, bids, budgets and landing pages."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "FROM AD CLICK TO BUSINESS ACTION",
+        "title": "Measure What Happens After Someone Interacts With Your Ad",
+        "paragraphs": [
+          "Clicks and impressions provide useful campaign information, but they do not show whether advertising is producing meaningful business outcomes."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Conversion Tracking",
+            "paragraphs": [
+              "Tracking may involve Google Ads, Google Tag Manager, Google Analytics 4 and the website’s form or ecommerce setup."
+            ],
+            "groups": [
+              {
+                "label": "Conversion tracking can be configured or reviewed for actions such as",
+                "items": [
+                  "Enquiry forms",
+                  "Phone calls",
+                  "WhatsApp clicks",
+                  "Appointment bookings",
+                  "Registrations",
+                  "Purchases and revenue",
+                  "Demo requests",
+                  "Qualified leads"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Landing-Page Review",
+            "paragraphs": [
+              "The destination page is reviewed to ensure that it continues the same message presented in the advertisement."
+            ],
+            "groups": [
+              {
+                "label": "The review may cover",
+                "items": [
+                  "Headline and advertisement consistency",
+                  "Offer clarity",
+                  "CTA visibility",
+                  "Mobile usability",
+                  "Page speed",
+                  "Form length",
+                  "Trust elements",
+                  "Conversion tracking"
+                ]
+              }
+            ],
+            "cta": {
+              "label": "Improve My Campaign Journey",
+              "href": "/contact"
+            },
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "id": "",
+        "eyebrow": "HOW I WORK",
+        "title": "A Clear Process From Campaign Planning to Improvement",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Discover",
+            "paragraphs": [
+              "Understand your business, audience, offer, service locations, advertising budget and campaign objectives."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "01"
+          },
+          {
+            "title": "Review",
+            "paragraphs": [
+              "Assess the existing Google Ads account, website, landing pages, tracking and available performance history."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "02"
+          },
+          {
+            "title": "Build",
+            "paragraphs": [
+              "Prepare the campaign structure, targeting, advertisements, assets, conversion goals and budget plan."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "03"
+          },
+          {
+            "title": "Launch",
+            "paragraphs": [
+              "Check campaign settings, advertisements, landing pages and conversion actions before activation."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "04"
+          },
+          {
+            "title": "Improve",
+            "paragraphs": [
+              "Review search terms, audiences, advertisements, bids, budgets, locations and conversion performance regularly."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "05"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "WHY WORK WITH ME",
+        "title": "Direct Campaign Support With Clear Budget Accountability",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Direct Campaign Management",
+            "paragraphs": [
+              "Work directly with the person reviewing, planning and managing your advertisements."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Clear Budget Visibility",
+            "paragraphs": [
+              "Understand how the available advertising budget is distributed across campaigns and objectives."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Campaign and Website Alignment",
+            "paragraphs": [
+              "Targeting, advertisements, conversion tracking and landing pages are reviewed as one connected journey."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Search-Term Monitoring",
+            "paragraphs": [
+              "Actual searches are reviewed to reduce irrelevant traffic and identify valuable new opportunities."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Conversion-Focused Decisions",
+            "paragraphs": [
+              "Performance is evaluated using enquiries, calls, purchases, bookings and other meaningful customer actions."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Transparent Reporting",
+            "paragraphs": [
+              "Receive clear updates covering advertising spend, campaign results, completed changes and recommended next actions."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "faq",
+        "id": "",
+        "eyebrow": "GOOGLE ADS QUESTIONS",
+        "title": "Frequently Asked Questions About Google Ads Management",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Which Google Ads campaign type is right for my business?",
+            "paragraphs": [
+              "The right campaign type depends on your objective, audience, offer, website and available assets. Search campaigns may suit businesses targeting active demand, while Performance Max, Demand Gen, Shopping or Video may support wider acquisition and awareness goals."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you manage my existing Google Ads account?",
+            "paragraphs": [
+              "Yes. I can audit an existing account and identify issues related to campaign structure, targeting, search terms, advertisements, conversion tracking, budgets and landing pages."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How much should I spend on Google Ads?",
+            "paragraphs": [
+              "The appropriate budget depends on market competition, click costs, target locations, customer value and conversion performance. Budget recommendations should be based on keyword research, business economics and realistic campaign expectations."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do you set up conversion tracking?",
+            "paragraphs": [
+              "Yes. Conversion tracking can be configured or reviewed for forms, calls, WhatsApp interactions, bookings, registrations, purchases and other important actions, depending on the website and technical setup."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do I need a dedicated landing page?",
+            "paragraphs": [
+              "A dedicated page may be useful when your current website does not closely match the advertisement, offer, audience or desired action. The requirement is determined after reviewing the campaign and existing pages."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you guarantee leads or sales?",
+            "paragraphs": [
+              "No responsible advertiser can guarantee a specific number of leads or sales. Results also depend on competition, budget, market demand, offer quality, pricing, website experience and sales follow-up."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How are Google Ads management fees calculated?",
+            "paragraphs": [
+              "Management fees depend on the number of campaigns, account complexity, target markets, advertising budget, tracking requirements and level of ongoing support. A customised proposal is provided after reviewing the project."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How do I get started?",
+            "paragraphs": [
+              "Share your website, business goals, target locations, advertising budget and existing account details. I will review the available information and recommend the most suitable campaign direction."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "id": "",
+        "eyebrow": "START YOUR GOOGLE ADS PROJECT",
+        "title": "Ready to Build a More Focused Google Ads Campaign?",
+        "paragraphs": [
+          "Share your website, target audience, locations and advertising goals. I will review your requirements and help you identify the campaign types, tracking requirements and landing-page improvements that should be prioritised."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": {
+          "label": "Request a Google Ads Consultation",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Chat With Sajad",
+          "href": "/contact"
+        },
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "meta-ads",
+    "path": "/services/meta-ads",
+    "metaTitle": "Meta Ads Management | Sajad Digital Marketer",
+    "metaDescription": "Generate leads and sales with audience targeting, creative testing, conversion tracking and professional Meta Ads management from Sajad.",
+    "sections": [
+      {
+        "type": "hero",
+        "id": "",
+        "eyebrow": "META ADS MANAGEMENT",
+        "title": "Meta Ads Campaigns Built to Reach, Engage and Convert",
+        "paragraphs": [
+          "I plan and manage Facebook and Instagram advertising campaigns that help startups, growing companies and established brands reach relevant audiences, generate qualified enquiries and increase online sales.",
+          "Every campaign is planned around your business objective, target audience, creative assets, advertising budget and the action you want potential customers to complete."
+        ],
+        "trust": [
+          "Audience-focused campaign planning",
+          "Creative testing and optimisation",
+          "Transparent performance reporting"
+        ],
+        "closing": "",
+        "primaryCta": {
+          "label": "Request a Meta Ads Consultation",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Explore Campaign Options",
+          "href": "#details"
+        },
+        "items": []
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "CAMPAIGN CHALLENGES",
+        "title": "Are Your Meta Ads Getting Attention but Not Enough Results?",
+        "paragraphs": [
+          "Facebook and Instagram campaigns can generate impressions, views and engagement without producing enough enquiries or sales. Weak targeting, repetitive creative, incorrect campaign objectives and unreliable tracking can all reduce campaign performance."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "High Cost per Result",
+            "paragraphs": [
+              "Your campaigns may be spending consistently without generating enough qualified leads, purchases, bookings or customer conversations."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Low-Quality Enquiries",
+            "paragraphs": [
+              "Lead campaigns may produce form submissions, but many contacts may fall outside your location, customer profile or service requirements."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Creative Fatigue",
+            "paragraphs": [
+              "Repeatedly showing the same advertisements can reduce audience interest, increase advertising costs and weaken campaign response."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Weak Conversion Tracking",
+            "paragraphs": [
+              "Important actions such as website enquiries, purchases, calls and messages may not be measured correctly."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "accordion",
+        "id": "details",
+        "eyebrow": "CAMPAIGN OBJECTIVES",
+        "title": "Choose the Objective That Matches Your Business Goal",
+        "paragraphs": [
+          "The right campaign objective depends on what you want people to do after seeing your advertisement. Present the following objectives as tabs or accordion sections so visitors can explore them without making the page feel crowded."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Awareness Campaigns",
+            "paragraphs": [
+              "Awareness campaigns help introduce your brand, product, service or offer to relevant audiences.",
+              "They are suitable when the immediate goal is to increase visibility, improve recognition or reach more people within a defined market."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Brand and product launches",
+                  "Events and announcements",
+                  "Video awareness campaigns"
+                ]
+              },
+              {
+                "label": "Campaign support includes",
+                "items": [
+                  "Audience planning",
+                  "Creative direction",
+                  "Reach and frequency monitoring"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Traffic Campaigns",
+            "paragraphs": [
+              "Traffic campaigns encourage users to visit your website, landing page, product page or another selected destination.",
+              "They are useful when you want to increase website visits or introduce audiences to a specific piece of content or offer."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Website traffic",
+                  "Blog and content promotion",
+                  "Product or landing-page visits"
+                ]
+              },
+              {
+                "label": "Campaign support includes",
+                "items": [
+                  "Destination-page selection",
+                  "Audience targeting",
+                  "Creative and copy testing"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Engagement Campaigns",
+            "paragraphs": [
+              "Engagement campaigns encourage users to interact with your content or begin a conversation with your business.",
+              "They can support post engagement, video views, messages and event responses."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Social engagement",
+                  "Video views",
+                  "Message-based campaigns"
+                ]
+              },
+              {
+                "label": "Campaign support includes",
+                "items": [
+                  "Post and video promotion",
+                  "Engagement audience creation",
+                  "Messaging campaign setup"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Lead Campaigns",
+            "paragraphs": [
+              "Lead campaigns help businesses collect enquiries through instant forms, website forms, calls or messaging conversations.",
+              "They are particularly useful for service businesses that need consultation requests, appointments, registrations, property enquiries or sales conversations."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Consultation requests",
+                  "Appointment bookings",
+                  "Quote and demo requests"
+                ]
+              },
+              {
+                "label": "Campaign support includes",
+                "items": [
+                  "Lead-form creation",
+                  "Qualification questions",
+                  "Lead tracking and delivery setup"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "App Promotion Campaigns",
+            "paragraphs": [
+              "App promotion campaigns help businesses generate mobile app installations or encourage existing users to complete valuable in-app actions.",
+              "The campaign can be planned around installs, registrations, subscriptions, purchases or user re-engagement."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "App installations",
+                  "User re-engagement",
+                  "In-app actions"
+                ]
+              },
+              {
+                "label": "Campaign support includes",
+                "items": [
+                  "Campaign objective planning",
+                  "Creative asset recommendations",
+                  "App-event measurement"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Sales Campaigns",
+            "paragraphs": [
+              "Sales campaigns are designed to reach users who are more likely to purchase products or complete valuable website actions.",
+              "They can support ecommerce sales, catalogue promotion, subscriptions and conversion-focused remarketing."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Ecommerce purchases",
+                  "Product catalogue promotion",
+                  "Website conversions"
+                ]
+              },
+              {
+                "label": "Campaign support includes",
+                "items": [
+                  "Sales campaign setup",
+                  "Catalogue and product ads",
+                  "Purchase and conversion tracking"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "CAMPAIGN MANAGEMENT SERVICES",
+        "title": "Complete Support From Planning to Optimisation",
+        "paragraphs": [
+          "Your campaign structure should reflect your offer, audience, available creative assets and expected customer action. I provide focused support across the areas that influence campaign performance."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Lead-Generation Campaigns",
+            "paragraphs": [
+              "Generate enquiries through instant forms, website forms, calls, WhatsApp or supported messaging experiences.",
+              "Campaigns can include qualification questions and audience controls designed to reduce irrelevant responses."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Ecommerce and Sales Campaigns",
+            "paragraphs": [
+              "Promote products to new and returning customers through prospecting, catalogue advertising, dynamic product campaigns and remarketing.",
+              "Campaign performance is reviewed using purchases, revenue, cost per sale and customer behaviour."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Remarketing Campaigns",
+            "paragraphs": [
+              "Reconnect with people who previously visited your website, viewed products, watched videos, opened forms or engaged with your social profiles.",
+              "Remarketing helps keep your business visible while potential customers consider their decision."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Audience Strategy",
+            "paragraphs": [
+              "Build a targeting structure using relevant locations, customer information, website activity, engagement behaviour and audience exclusions.",
+              "The strategy may include prospecting, custom, lookalike and remarketing audiences."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Creative and Ad-Copy Strategy",
+            "paragraphs": [
+              "Plan advertisements around audience needs, campaign placements and the action you want users to complete.",
+              "Creative support can include hooks, headlines, primary text, calls to action, visual direction and testing recommendations."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "CREATIVE FORMATS",
+        "title": "Present Your Message in the Right Format",
+        "paragraphs": [
+          "Use compact cards or an icon-based row for these formats."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Image Ads",
+            "paragraphs": [
+              "Use a focused visual and clear message to promote a service, product, benefit or offer."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Video and Reels Ads",
+            "paragraphs": [
+              "Use short-form video to demonstrate products, explain services and capture attention quickly."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Carousel Ads",
+            "paragraphs": [
+              "Present multiple products, services, benefits or steps within one swipeable advertisement."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Collection Ads",
+            "paragraphs": [
+              "Create a mobile-focused shopping experience that allows users to explore several products."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Lead Form Ads",
+            "paragraphs": [
+              "Collect customer information without requiring users to leave the Meta platform."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Click-to-Message Ads",
+            "paragraphs": [
+              "Encourage users to begin a direct conversation with your business before making a decision."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "FROM AD INTERACTION TO CONVERSION",
+        "title": "Measure What Happens and Improve the Next Step",
+        "paragraphs": [
+          "Campaign performance depends on what happens after someone views or clicks an advertisement."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Conversion Tracking",
+            "paragraphs": [
+              "Depending on your website and technical setup, tracking may involve the Meta Pixel, Conversions API, Google Tag Manager and website events."
+            ],
+            "groups": [
+              {
+                "label": "Tracking can be configured or reviewed for actions such as",
+                "items": [
+                  "Website enquiry forms",
+                  "Instant form submissions",
+                  "Calls and messages",
+                  "Appointment bookings",
+                  "Add-to-cart actions",
+                  "Purchases and revenue"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Landing-Page Review",
+            "paragraphs": [
+              "The destination page should continue the same message and offer presented in the advertisement."
+            ],
+            "groups": [
+              {
+                "label": "The review may cover",
+                "items": [
+                  "Headline and message consistency",
+                  "Mobile usability",
+                  "CTA visibility",
+                  "Form length and clarity",
+                  "Page-loading experience",
+                  "Trust and credibility elements"
+                ]
+              }
+            ],
+            "cta": {
+              "label": "Improve My Campaign Journey",
+              "href": "/contact"
+            },
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "id": "",
+        "eyebrow": "HOW I WORK",
+        "title": "A Clear Process From Campaign Planning to Improvement",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Discover",
+            "paragraphs": [
+              "Understand your business, target audience, offer, campaign locations, advertising budget and expected outcomes."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "01"
+          },
+          {
+            "title": "Review",
+            "paragraphs": [
+              "Assess your existing Meta Ads account, website, tracking setup, creative assets and previous performance."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "02"
+          },
+          {
+            "title": "Plan",
+            "paragraphs": [
+              "Select the campaign objective, audience strategy, placements, creative requirements, budget and conversion actions."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "03"
+          },
+          {
+            "title": "Build and Launch",
+            "paragraphs": [
+              "Prepare the campaigns, advertisements, audiences, forms and tracking before activating the ads."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "04"
+          },
+          {
+            "title": "Test and Improve",
+            "paragraphs": [
+              "Review audience response, creative performance, lead quality, sales and cost per result to guide optimisation."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "05"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "WHY WORK WITH ME",
+        "title": "Direct Meta Ads Support With Clear Performance Visibility",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Objective-Based Planning",
+            "paragraphs": [
+              "Every campaign begins with the business action you want the audience to complete."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Direct Campaign Management",
+            "paragraphs": [
+              "Work directly with the person planning, building and managing your campaigns."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Audience and Creative Alignment",
+            "paragraphs": [
+              "Targeting, messaging and creative formats are planned together instead of being treated as separate activities."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Transparent Reporting",
+            "paragraphs": [
+              "Receive clear updates on advertising spend, campaign results, completed improvements and recommended next steps."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "faq",
+        "id": "",
+        "eyebrow": "META ADS QUESTIONS",
+        "title": "Common Questions About Meta Ads Management",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Which Meta Ads objective should I choose?",
+            "paragraphs": [
+              "The right objective depends on the action you want users to complete. Awareness can support visibility, Leads can generate enquiries and Sales can support purchases or other valuable website conversions."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you manage my existing Meta Ads account?",
+            "paragraphs": [
+              "Yes. I can review your existing account, campaigns, audiences, creative assets, conversion events, budget allocation and previous performance before recommending improvements."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How much should I spend on Meta Ads?",
+            "paragraphs": [
+              "The appropriate budget depends on your target audience, locations, campaign objective, customer value, creative quality and expected cost per result. A suitable starting budget can be recommended after reviewing your requirements."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do you provide advertisement creatives?",
+            "paragraphs": [
+              "I can provide campaign concepts, copy, hooks, format recommendations and creative direction. Graphic design, video production, UGC content or professional shoots can be included separately based on the agreed scope."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do you set up the Meta Pixel and Conversions API?",
+            "paragraphs": [
+              "I can review or coordinate the required tracking setup depending on your website platform, available access and technical requirements."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can Meta Ads guarantee leads or sales?",
+            "paragraphs": [
+              "No responsible advertiser can guarantee a fixed number of leads or sales. Results also depend on your offer, market demand, pricing, website experience, creative quality and sales follow-up."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can Meta Ads be used for ecommerce?",
+            "paragraphs": [
+              "Yes. Meta Ads can support prospecting, product catalogue campaigns, dynamic product advertising, cart-abandonment remarketing and customer retention campaigns."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How are Meta Ads management fees calculated?",
+            "paragraphs": [
+              "Management fees depend on the number of campaigns, target markets, creative requirements, advertising budget, tracking setup and level of ongoing support."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "id": "",
+        "eyebrow": "START YOUR META ADS CAMPAIGN",
+        "title": "Ready to Reach and Convert More Relevant Customers?",
+        "paragraphs": [
+          "Share your business, target audience, current advertising activities and growth goals. I will review your requirements and recommend the Meta Ads objective, creative approach and tracking setup that should be prioritised."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": {
+          "label": "Request a Meta Ads Consultation",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Chat With Sajad",
+          "href": "/contact"
+        },
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "website-development",
+    "path": "/services/website-development",
+    "metaTitle": "Website Development Services | Sajad Digital Marketer",
+    "metaDescription": "Build a responsive, SEO-ready and conversion-focused website with professional website development services from Sajad Digital Marketer.",
+    "sections": [
+      {
+        "type": "hero",
+        "id": "",
+        "eyebrow": "WEBSITE DEVELOPMENT SERVICES",
+        "title": "Websites Built to Communicate Clearly and Support Business Growth",
+        "paragraphs": [
+          "I plan and develop professional websites for startups, growing companies and established brands that need a stronger digital presence.",
+          "Every website is structured around your services, audience, search visibility and conversion goals, helping visitors understand your business and take the next step with confidence."
+        ],
+        "trust": [
+          "Mobile-responsive development",
+          "SEO-friendly website structure",
+          "Conversion-focused user journeys"
+        ],
+        "closing": "",
+        "primaryCta": {
+          "label": "Discuss Your Website Project",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Explore Website Solutions",
+          "href": "/services/website-development"
+        },
+        "items": []
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "WEBSITE CHALLENGES",
+        "title": "Is Your Website Helping Visitors Choose Your Business?",
+        "paragraphs": [
+          "A website can look modern but still fail to support business growth. Unclear messaging, poor mobile usability, weak page structure and confusing enquiry journeys can cause potential customers to leave before taking action."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Outdated Website Experience",
+            "paragraphs": [
+              "Your website may no longer reflect the quality, positioning or current services of your business."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Unclear Service Communication",
+            "paragraphs": [
+              "Visitors may struggle to understand what you offer, who you serve and why they should contact you."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Low Enquiry or Sales Conversion",
+            "paragraphs": [
+              "Your website may receive traffic without producing enough calls, form submissions, bookings or purchases."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Poor Mobile Performance",
+            "paragraphs": [
+              "Pages may be difficult to read, navigate or use on smartphones and smaller screens."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "accordion",
+        "id": "details",
+        "eyebrow": "WEBSITE TYPES",
+        "title": "Choose a Website Structure That Matches Your Business",
+        "paragraphs": [
+          "Different businesses require different page structures, features and conversion journeys. Present the following website solutions as tabs or accordion sections so users can quickly find the option relevant to them."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Business and Corporate Websites",
+            "paragraphs": [
+              "Business websites clearly present your company, services, experience and contact options.",
+              "They are suitable for organisations that need a professional digital presence capable of supporting enquiries, credibility and business development."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Small and medium-sized companies",
+                  "B2B organisations",
+                  "Professional service firms"
+                ]
+              },
+              {
+                "label": "Development can include",
+                "items": [
+                  "Homepage and service pages",
+                  "About and contact sections",
+                  "Lead forms and enquiry paths"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Service-Based Lead Generation Websites",
+            "paragraphs": [
+              "Lead-generation websites are built around helping visitors understand a service and complete a clear action.",
+              "The structure focuses on customer challenges, service benefits, trust signals and strong calls to action."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Consultants and specialists",
+                  "Healthcare and wellness businesses",
+                  "Real estate and local service companies"
+                ]
+              },
+              {
+                "label": "Development can include",
+                "items": [
+                  "Service-specific page architecture",
+                  "Consultation or quote forms",
+                  "Call and WhatsApp integrations"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Ecommerce Websites",
+            "paragraphs": [
+              "Ecommerce websites help businesses present products, support online transactions and create a smoother purchasing journey.",
+              "The scope depends on the number of products, collections, payment requirements and operational integrations."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Retail and product brands",
+                  "Direct-to-consumer companies",
+                  "Growing ecommerce businesses"
+                ]
+              },
+              {
+                "label": "Development can include",
+                "items": [
+                  "Product and category pages",
+                  "Shopping-cart and checkout setup",
+                  "Payment and enquiry integrations"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Startup and Product Websites",
+            "paragraphs": [
+              "Startup websites explain new products, platforms or services clearly to customers, partners and investors.",
+              "The structure should simplify the offer, establish credibility and guide users towards demos, registrations or sales conversations."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Technology startups",
+                  "SaaS businesses",
+                  "New product launches"
+                ]
+              },
+              {
+                "label": "Development can include",
+                "items": [
+                  "Product and feature pages",
+                  "Demo or registration flows",
+                  "Use-case and industry pages"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Website Redesign Projects",
+            "paragraphs": [
+              "A redesign improves an existing website without losing the value of established content, branding or search visibility.",
+              "The project begins with a review of the current structure, performance and conversion journey."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Outdated websites",
+                  "Poor mobile experiences",
+                  "Businesses repositioning their services"
+                ]
+              },
+              {
+                "label": "Development can include",
+                "items": [
+                  "Structure and layout improvements",
+                  "Content migration",
+                  "Redirect and SEO recommendations"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Content and SEO-Focused Websites",
+            "paragraphs": [
+              "Content-led websites are structured to support service visibility, educational resources and long-term organic growth.",
+              "The website architecture connects commercial pages with relevant supporting content."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "SEO-focused businesses",
+                  "B2B companies",
+                  "Education and information-led brands"
+                ]
+              },
+              {
+                "label": "Development can include",
+                "items": [
+                  "Service and topic clusters",
+                  "Blog or resource sections",
+                  "Internal linking structures"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "WHAT THE SERVICE INCLUDES",
+        "title": "Complete Support From Planning to Launch",
+        "paragraphs": [
+          "A successful website project involves more than visual design. It requires clear page planning, suitable technology, organised content and a smooth path towards enquiry or purchase."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Website Strategy and Planning",
+            "paragraphs": [
+              "The project begins by defining the website’s audience, purpose, page requirements and primary conversion actions."
+            ],
+            "groups": [
+              {
+                "label": "This stage may include",
+                "items": [
+                  "Business and audience review",
+                  "Competitor website analysis",
+                  "Page and feature requirements",
+                  "Conversion-goal planning"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Sitemap and Page Structure",
+            "paragraphs": [
+              "A clear sitemap organises the website around services, products, industries, locations or customer needs.",
+              "The structure helps visitors navigate the site while supporting future SEO and content development."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "User Experience and Layout Planning",
+            "paragraphs": [
+              "Each page is organised to communicate information in a clear order."
+            ],
+            "groups": [
+              {
+                "label": "The layout may include",
+                "items": [
+                  "Content hierarchy",
+                  "Navigation planning",
+                  "CTA placement",
+                  "Form and contact journeys"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Responsive Website Development",
+            "paragraphs": [
+              "The website is developed to function across desktop, tablet and mobile screen sizes.",
+              "Menus, forms, images, buttons and content blocks are adjusted for comfortable use across devices."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Content Integration",
+            "paragraphs": [
+              "Approved website copy, images, videos and brand assets are added to the relevant page sections.",
+              "Where required, content planning or copywriting can be included as a connected service."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Forms and Business Integrations",
+            "paragraphs": [
+              "The website can include enquiry forms and contact options based on the business’s preferred customer journey."
+            ],
+            "groups": [
+              {
+                "label": "Integrations may include",
+                "items": [
+                  "Contact and quotation forms",
+                  "WhatsApp and phone buttons",
+                  "Email notifications",
+                  "CRM or marketing-platform connections"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Website Launch Support",
+            "paragraphs": [
+              "Before launch, the website is reviewed for content, links, responsiveness, forms and essential technical settings.",
+              "The launch scope depends on the selected platform, hosting setup and domain access."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "DEVELOPMENT PLATFORMS",
+        "title": "Select the Right Platform for Your Website Requirements",
+        "paragraphs": [
+          "The platform should match your content needs, internal capabilities, ecommerce requirements and future development plans.",
+          "Use compact cards for the following platform options."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "WordPress and Elementor",
+            "paragraphs": [
+              "Suitable for service-based, corporate, content-led and lead-generation websites that require flexible page management."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Shopify",
+            "paragraphs": [
+              "Suitable for ecommerce brands that need product management, secure checkout and retail-focused website functionality."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Next.js and Strapi",
+            "paragraphs": [
+              "Suitable for businesses requiring a modern frontend, structured content management and greater development flexibility."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Existing Platform Improvements",
+            "paragraphs": [
+              "Suitable for businesses that want to improve pages, content or functionality without rebuilding the complete website.",
+              "The final platform recommendation should be made after reviewing the website goals, features, budget and long-term management requirements."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "TECHNICAL FOUNDATIONS",
+        "title": "Build the Website on a Stronger Digital Foundation",
+        "paragraphs": [
+          "A website should be prepared for search visibility, measurement and future marketing activity from the beginning."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "SEO-Friendly Setup",
+            "paragraphs": [
+              "Advanced keyword research, SEO content production and ongoing optimisation are handled through the separate SEO service."
+            ],
+            "groups": [
+              {
+                "label": "The website structure can support",
+                "items": [
+                  "Clear page URLs",
+                  "Heading hierarchy",
+                  "Metadata implementation",
+                  "Internal linking",
+                  "Sitemap and indexation setup"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Website Performance",
+            "paragraphs": [
+              "Images, page components and unnecessary scripts are reviewed to support a smoother loading experience.",
+              "Performance depends on the design, hosting, plugins, third-party tools and content used on the website."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Analytics and Tracking",
+            "paragraphs": [
+              "Tracking can be added to help understand how users reach and interact with the website."
+            ],
+            "groups": [
+              {
+                "label": "Setup may include",
+                "items": [
+                  "Google Analytics 4",
+                  "Google Search Console",
+                  "Google Tag Manager",
+                  "Microsoft Clarity",
+                  "Form and CTA tracking"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Conversion-Focused Pages",
+            "paragraphs": [],
+            "groups": [
+              {
+                "label": "Important pages are structured around one or more business actions, such as",
+                "items": [
+                  "Contacting the business",
+                  "Requesting a quotation",
+                  "Booking an appointment",
+                  "Registering for a service",
+                  "Completing a purchase"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "id": "",
+        "eyebrow": "HOW THE PROJECT WORKS",
+        "title": "A Clear Process From Planning to Website Launch",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Discover",
+            "paragraphs": [
+              "Discuss your business, audience, website goals, page requirements, preferred features and design direction."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "01"
+          },
+          {
+            "title": "Structure",
+            "paragraphs": [
+              "Prepare the sitemap, page hierarchy, navigation and conversion journey before development begins."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "02"
+          },
+          {
+            "title": "Design and Develop",
+            "paragraphs": [
+              "Create the page layouts and build the approved website using the selected platform."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "03"
+          },
+          {
+            "title": "Review and Refine",
+            "paragraphs": [
+              "Test the website across screen sizes and complete agreed revisions to content, layout and functionality."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "04"
+          },
+          {
+            "title": "Launch and Handover",
+            "paragraphs": [
+              "Complete the final checks, publish the website and provide the agreed access or website-management guidance."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "05"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "WHY WORK WITH ME",
+        "title": "Website Development Connected to Your Marketing Goals",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Strategy Before Design",
+            "paragraphs": [
+              "The website structure begins with your audience, services and conversion goals rather than visual styling alone."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Direct Communication",
+            "paragraphs": [
+              "Work directly with the person planning the website structure and coordinating the development."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Marketing and SEO Understanding",
+            "paragraphs": [
+              "The website is planned with visibility, content, paid campaigns and customer journeys in mind."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Clear Project Scope",
+            "paragraphs": [
+              "Understand which pages, features and deliverables are included before the project begins."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "faq",
+        "id": "",
+        "eyebrow": "WEBSITE DEVELOPMENT QUESTIONS",
+        "title": "Common Questions About Website Development Services",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "What types of websites do you develop?",
+            "paragraphs": [
+              "I develop business, corporate, lead-generation, ecommerce, startup, service-based and content-focused websites. The recommended structure and platform depend on your goals, audience, features and internal management requirements."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you redesign my existing website?",
+            "paragraphs": [
+              "Yes. I can review your current website and recommend whether it should be improved, redesigned or rebuilt. The review considers structure, content, mobile usability, search visibility and technical limitations."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Which website platform should I choose?",
+            "paragraphs": [
+              "The right platform depends on the website’s purpose and required features. WordPress may suit service and content-led websites, Shopify may suit ecommerce and Next.js with Strapi may suit more customised requirements."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do you write the website content?",
+            "paragraphs": [
+              "Website content can be included as a separate or combined service. The content scope may cover the homepage, service pages, product pages, landing pages and supporting website sections."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Will the website be mobile responsive?",
+            "paragraphs": [
+              "Yes. The website will be planned and developed to work across desktop, tablet and mobile devices. Final responsiveness also depends on the approved design, content and third-party integrations."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Will the website be SEO-friendly?",
+            "paragraphs": [
+              "The website can include a clear structure, heading hierarchy, metadata fields, internal links, sitemap setup and essential technical foundations. Ongoing SEO strategy and content optimisation are handled separately."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you connect forms, WhatsApp and analytics?",
+            "paragraphs": [
+              "Yes. The website can include enquiry forms, click-to-call options, WhatsApp links and supported analytics or tracking tools based on the agreed scope and platform access."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How long does website development take?",
+            "paragraphs": [
+              "The timeline depends on the number of pages, content readiness, design complexity, features, approvals and revision cycles. A project timeline is provided after the website requirements are reviewed."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How much does a website cost?",
+            "paragraphs": [
+              "Website development pricing depends on the platform, number of pages, design requirements, features, content scope, integrations and technical complexity. A customised proposal is provided after the requirements are confirmed."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Will I be able to update the website later?",
+            "paragraphs": [
+              "This depends on the platform and website setup. Content-management platforms such as WordPress and Shopify allow many routine updates, while custom development may require technical support for certain changes."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "id": "",
+        "eyebrow": "START YOUR WEBSITE PROJECT",
+        "title": "Ready to Build a Website That Supports Your Business Goals?",
+        "paragraphs": [
+          "Share your current website, required pages, business goals and preferred features. I will review your requirements and recommend a suitable website structure, platform and project direction."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": {
+          "label": "Discuss Your Website Project",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Chat With Sajad",
+          "href": "/contact"
+        },
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "landing-page-development",
+    "path": "/services/landing-page-development",
+    "metaTitle": "Landing Page Development | Sajad Digital Marketer",
+    "metaDescription": "Generate more leads and sales with responsive, campaign-focused landing page development services from Sajad Digital Marketer.",
+    "sections": [
+      {
+        "type": "hero",
+        "id": "",
+        "eyebrow": "LANDING PAGE DEVELOPMENT",
+        "title": "Landing Pages Built to Turn Campaign Traffic Into Action",
+        "paragraphs": [
+          "I plan and develop focused landing pages for Google Ads, Meta Ads, lead-generation campaigns, service promotions and product launches.",
+          "Each page is built around one audience, one offer and one primary conversion goal, helping visitors understand the message quickly and take the next step with fewer distractions."
+        ],
+        "trust": [
+          "Campaign-focused page structure",
+          "Mobile-responsive development",
+          "Conversion tracking integration"
+        ],
+        "closing": "",
+        "primaryCta": {
+          "label": "Discuss Your Landing Page",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Explore Landing Page Types",
+          "href": "/services/landing-page-development"
+        },
+        "items": []
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "CONVERSION CHALLENGES",
+        "title": "Are Campaign Clicks Reaching the Wrong Page?",
+        "paragraphs": [
+          "Sending paid traffic to a general homepage or crowded service page can reduce campaign performance. Visitors may struggle to find the offer, understand the next action or complete the enquiry process."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Unclear Campaign Message",
+            "paragraphs": [
+              "The landing page may not clearly continue the promise or offer presented in the advertisement."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Too Many Distractions",
+            "paragraphs": [
+              "Navigation links, unrelated services and competing calls to action can take attention away from the campaign goal."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Low Form Completion",
+            "paragraphs": [
+              "Long forms, unclear questions or poor mobile usability may prevent interested visitors from submitting their details."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Weak Conversion Measurement",
+            "paragraphs": [
+              "Campaign actions may not be tracked correctly, making it difficult to understand which advertisements generate valuable results."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "accordion",
+        "id": "details",
+        "eyebrow": "LANDING PAGE SOLUTIONS",
+        "title": "Choose a Landing Page Based on the Action You Need",
+        "paragraphs": [
+          "Different campaigns require different content structures, proof elements and conversion journeys.",
+          "Present the following landing page types as tabs or accordion sections so visitors can explore the most relevant option without making the page feel crowded."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Lead-Generation Landing Pages",
+            "paragraphs": [
+              "Lead-generation pages are created to collect enquiries, consultation requests, quotations, appointments or demo bookings.",
+              "The page focuses on explaining the offer, addressing key concerns and encouraging the visitor to complete a clear form or contact action."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Professional services",
+                  "Real estate campaigns",
+                  "Healthcare and wellness enquiries"
+                ]
+              },
+              {
+                "label": "Page elements may include",
+                "items": [
+                  "Offer-focused headline",
+                  "Lead qualification form",
+                  "Trust and credibility sections"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Google Ads Landing Pages",
+            "paragraphs": [
+              "Google Ads landing pages are aligned with the keywords, advertisement copy and search intent used in paid-search campaigns.",
+              "The page should help visitors immediately recognise that they have reached a relevant destination."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "High-intent Search campaigns",
+                  "Location-based campaigns",
+                  "Service and quotation enquiries"
+                ]
+              },
+              {
+                "label": "Page elements may include",
+                "items": [
+                  "Keyword-relevant messaging",
+                  "Clear service explanation",
+                  "Call, form or booking CTA"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Meta Ads Landing Pages",
+            "paragraphs": [
+              "Meta Ads landing pages continue the visual message, offer and audience promise presented across Facebook and Instagram advertisements.",
+              "They are designed for users who may be discovering the business or offer for the first time."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Lead-generation campaigns",
+                  "Product and service promotions",
+                  "Audience-specific offers"
+                ]
+              },
+              {
+                "label": "Page elements may include",
+                "items": [
+                  "Creative-aligned headline",
+                  "Benefit-led content",
+                  "Short mobile-friendly forms"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Product Launch Landing Pages",
+            "paragraphs": [
+              "Product launch pages introduce a new product, platform, service or feature through one focused campaign destination.",
+              "The page helps explain what is launching, who it is for and why the audience should act now."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "New products",
+                  "SaaS and technology launches",
+                  "Limited-time offers"
+                ]
+              },
+              {
+                "label": "Page elements may include",
+                "items": [
+                  "Product benefits",
+                  "Feature highlights",
+                  "Demo, registration or purchase CTA"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Event and Registration Landing Pages",
+            "paragraphs": [
+              "Event pages help promote webinars, workshops, launches, conferences and in-person sessions.",
+              "The page should communicate the event value, schedule, audience and registration process clearly."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Webinars",
+                  "Workshops",
+                  "Business events"
+                ]
+              },
+              {
+                "label": "Page elements may include",
+                "items": [
+                  "Event details",
+                  "Speaker or host information",
+                  "Registration form"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Ecommerce Promotion Landing Pages",
+            "paragraphs": [
+              "Promotion pages highlight a selected product range, seasonal campaign, bundle or offer without requiring visitors to browse the entire store.",
+              "They can support paid advertising, influencer campaigns and short-term retail promotions."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Product collections",
+                  "Seasonal sales",
+                  "Promotional bundles"
+                ]
+              },
+              {
+                "label": "Page elements may include",
+                "items": [
+                  "Product highlights",
+                  "Offer details",
+                  "Purchase-focused calls to action"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "WHAT THE SERVICE INCLUDES",
+        "title": "Complete Support From Campaign Brief to Page Launch",
+        "paragraphs": [
+          "A landing page should connect the campaign message, audience need and conversion action within one clear journey."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Campaign and Audience Review",
+            "paragraphs": [
+              "The project begins by reviewing the traffic source, target audience, offer and action the visitor should complete.",
+              "This helps determine the right page length, messaging and conversion structure."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Page Structure and Wireframing",
+            "paragraphs": [
+              "The content flow is planned before development begins."
+            ],
+            "groups": [
+              {
+                "label": "The structure may include",
+                "items": [
+                  "Campaign headline",
+                  "Problem and solution sections",
+                  "Benefits and differentiators",
+                  "Proof and trust elements",
+                  "CTA and form placement"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Conversion-Focused Content",
+            "paragraphs": [
+              "Landing page copy should communicate the offer quickly and reduce uncertainty."
+            ],
+            "groups": [
+              {
+                "label": "Content support can include",
+                "items": [
+                  "Headline and supporting copy",
+                  "Benefit sections",
+                  "Service or product explanation",
+                  "FAQ content",
+                  "Calls to action"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Responsive Page Development",
+            "paragraphs": [
+              "The landing page is developed to work across desktop, tablet and mobile devices.",
+              "Special attention is given to mobile spacing, form usability, button visibility and content readability."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Form and Contact Setup",
+            "paragraphs": [
+              "The conversion action is selected based on the campaign objective."
+            ],
+            "groups": [
+              {
+                "label": "Options may include",
+                "items": [
+                  "Enquiry forms",
+                  "Call buttons",
+                  "WhatsApp links",
+                  "Appointment booking",
+                  "Registration forms",
+                  "Purchase actions"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Campaign Tracking Setup",
+            "paragraphs": [
+              "The page can be prepared to measure important campaign interactions."
+            ],
+            "groups": [
+              {
+                "label": "Tracking requirements may include",
+                "items": [
+                  "Form submissions",
+                  "Phone and WhatsApp clicks",
+                  "Button interactions",
+                  "Bookings and registrations",
+                  "Purchases or revenue"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "PAGE EXPERIENCE",
+        "title": "Guide Visitors From Interest to Decision",
+        "paragraphs": [
+          "A landing page should help visitors understand the offer without forcing them to search through unrelated information."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Clear Message Match",
+            "paragraphs": [
+              "The headline and opening content should reflect the advertisement, keyword or campaign message that brought the visitor to the page."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Focused Content Hierarchy",
+            "paragraphs": [
+              "The most important information should appear in a logical order, from the offer and benefits to proof and action."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Visible Calls to Action",
+            "paragraphs": [
+              "Buttons and contact options should appear at relevant points without overwhelming the visitor."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Trust and Credibility",
+            "paragraphs": [
+              "Testimonials, case-study results, certifications, client logos or service details can reduce uncertainty when they are genuine and approved."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Suitable Form Length",
+            "paragraphs": [
+              "Forms should collect enough information to support follow-up without creating unnecessary friction."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Mobile Conversion Experience",
+            "paragraphs": [
+              "The page should remain readable, fast and straightforward for visitors using smaller screens."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "FROM AD CLICK TO MEASUREMENT",
+        "title": "Build a Landing Page That Supports Better Campaign Decisions",
+        "paragraphs": [
+          "A landing page should not be treated as a separate design asset. It should work directly with the advertisement, tracking setup and campaign objective."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Advertisement Alignment",
+            "paragraphs": [
+              "The page should continue the same offer, audience message and visual direction used in the advertisement."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Conversion Tracking",
+            "paragraphs": [],
+            "groups": [
+              {
+                "label": "Supported actions can be tracked through platforms such as",
+                "items": [
+                  "Google Ads",
+                  "Meta Ads",
+                  "Google Analytics 4",
+                  "Google Tag Manager"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "User Behaviour Review",
+            "paragraphs": [
+              "Tools such as Microsoft Clarity can help identify how users interact with the page, where they stop and which sections may require improvement."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Testing Recommendations",
+            "paragraphs": [
+              "A/B testing is most useful when the campaign receives enough traffic and conversions to support a meaningful comparison."
+            ],
+            "groups": [
+              {
+                "label": "Where campaign traffic is sufficient, recommendations may include testing",
+                "items": [
+                  "Headlines",
+                  "CTA wording",
+                  "Form length",
+                  "Page sections",
+                  "Offer presentation"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "id": "",
+        "eyebrow": "HOW THE PROJECT WORKS",
+        "title": "A Clear Process From Campaign Goal to Launch",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Discover",
+            "paragraphs": [
+              "Review the campaign, target audience, offer, traffic source and required conversion action."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "01"
+          },
+          {
+            "title": "Structure",
+            "paragraphs": [
+              "Plan the page flow, content hierarchy, proof elements, form and CTA placement."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "02"
+          },
+          {
+            "title": "Design and Develop",
+            "paragraphs": [
+              "Create the landing page using the approved structure, content and selected website platform."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "03"
+          },
+          {
+            "title": "Connect and Test",
+            "paragraphs": [
+              "Set up forms, tracking and contact actions, then review the page across devices."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "04"
+          },
+          {
+            "title": "Launch and Improve",
+            "paragraphs": [
+              "Publish the page and use campaign findings to identify future optimisation opportunities."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "05"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "WHY WORK WITH ME",
+        "title": "Landing Pages Planned With the Campaign in Mind",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Campaign and Page Alignment",
+            "paragraphs": [
+              "The advertisement, audience message and landing page are planned as parts of one conversion journey."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Direct Communication",
+            "paragraphs": [
+              "Work directly with the person reviewing the campaign requirement and planning the page structure."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Marketing and Development Experience",
+            "paragraphs": [
+              "The page is developed with paid advertising, SEO, content and conversion tracking requirements in mind."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Clear Project Scope",
+            "paragraphs": [
+              "Understand the page sections, content requirements, integrations and deliverables before development begins."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "faq",
+        "id": "",
+        "eyebrow": "LANDING PAGE QUESTIONS",
+        "title": "Common Questions About Landing Page Development",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "What is a landing page?",
+            "paragraphs": [
+              "A landing page is a focused page created for one campaign, offer or conversion action. Unlike a general website page, it reduces distractions and guides visitors towards an enquiry, booking, registration or purchase."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do I need a landing page for Google Ads?",
+            "paragraphs": [
+              "A dedicated landing page may be useful when your current website page does not closely match the advertisement, keyword or intended action. It can provide a more relevant and focused campaign experience."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you create landing pages for Meta Ads?",
+            "paragraphs": [
+              "Yes. Meta Ads landing pages can be planned around a specific audience, creative message, offer and conversion goal. The page can support leads, registrations, product promotions or sales campaigns."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you add a landing page to my existing website?",
+            "paragraphs": [
+              "Yes. A landing page can often be added to an existing WordPress, Elementor, Shopify or custom website. The available options depend on the platform and technical access."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do you provide the landing page content?",
+            "paragraphs": [
+              "Yes. Landing page content can be included in the project. The content is planned around the campaign message, audience concerns, offer benefits and required action."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Will the landing page be mobile responsive?",
+            "paragraphs": [
+              "Yes. The page will be developed to work across desktop, tablet and mobile devices, with particular attention to mobile forms, buttons and content spacing."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you set up conversion tracking?",
+            "paragraphs": [
+              "Tracking can be set up or coordinated for forms, calls, WhatsApp clicks, bookings, registrations and purchases, depending on the platform and available access."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How many sections should a landing page have?",
+            "paragraphs": [
+              "The number of sections depends on the offer, audience awareness and campaign goal. Some pages may be short, while higher-consideration services may need more explanation, proof and FAQs."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How long does landing page development take?",
+            "paragraphs": [
+              "The timeline depends on content readiness, design requirements, platform access, integrations and review cycles. A timeline is provided after the campaign requirement is reviewed."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How much does a landing page cost?",
+            "paragraphs": [
+              "Pricing depends on the page length, content requirements, design complexity, forms, integrations, tracking setup and platform. A customised proposal is provided after reviewing the project."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "id": "",
+        "eyebrow": "START YOUR LANDING PAGE PROJECT",
+        "title": "Ready to Turn More Campaign Clicks Into Enquiries or Sales?",
+        "paragraphs": [
+          "Share your campaign platform, target audience, offer and required customer action. I will review your requirements and recommend a suitable landing page structure, content direction and tracking setup."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": {
+          "label": "Discuss Your Landing Page",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Chat With Sajad",
+          "href": "/contact"
+        },
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "content-marketing",
+    "path": "/services/content-marketing",
+    "metaTitle": "Content Marketing Services | Sajad Digital Marketer",
+    "metaDescription": "Build visibility, trust and conversions with SEO content strategy, website copy and content marketing services from Sajad Digital Marketer.",
+    "sections": [
+      {
+        "type": "hero",
+        "id": "",
+        "eyebrow": "CONTENT MARKETING SERVICES",
+        "title": "Content That Helps People Find, Understand and Choose Your Business",
+        "paragraphs": [
+          "I plan and create strategic content for startups, growing companies and established brands that want to improve search visibility, communicate their value clearly and support stronger customer decisions.",
+          "From service pages and blogs to landing pages, product content and campaign copy, every piece is created around your audience, business goals and the action you want readers to take."
+        ],
+        "trust": [
+          "Audience and search-focused planning",
+          "Brand-aligned content creation",
+          "Conversion-focused messaging"
+        ],
+        "closing": "",
+        "primaryCta": {
+          "label": "Discuss Your Content Requirements",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Explore Content Solutions",
+          "href": "/services/content-marketing"
+        },
+        "items": []
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "CONTENT CHALLENGES",
+        "title": "Is Your Content Informing Readers but Not Supporting Growth?",
+        "paragraphs": [
+          "Publishing more content does not automatically improve visibility, trust or conversions. Weak topic planning, unclear messaging, inconsistent brand voice and disconnected pages can prevent content from supporting meaningful business outcomes."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Unclear Brand Messaging",
+            "paragraphs": [
+              "Your website may not explain what makes your business relevant, different or valuable to the intended audience."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Content Without Search Visibility",
+            "paragraphs": [
+              "Articles and service pages may be published without targeting the questions, topics and search intent your customers actually use."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Inconsistent Content Production",
+            "paragraphs": [
+              "Content may be created irregularly without a clear calendar, priority list or connection to wider marketing goals."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Low Reader Action",
+            "paragraphs": [
+              "People may read your content but leave without exploring a service, submitting an enquiry, making a purchase or taking the next step."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "accordion",
+        "id": "details",
+        "eyebrow": "CONTENT SOLUTIONS",
+        "title": "Choose Content Based on the Role It Needs to Perform",
+        "paragraphs": [
+          "Different content types support different stages of the customer journey. Present the following options as tabs or accordion sections so visitors can explore the content most relevant to their needs."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Website and Service Page Content",
+            "paragraphs": [
+              "Website content explains your business, services, process, expertise and next steps.",
+              "Clear service pages help visitors understand whether your solution is relevant while supporting search visibility and enquiry generation."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "New websites",
+                  "Website redesigns",
+                  "Businesses expanding their services"
+                ]
+              },
+              {
+                "label": "Content can include",
+                "items": [
+                  "Homepage copy",
+                  "Service pages",
+                  "About and contact sections"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "SEO Blog Content",
+            "paragraphs": [
+              "SEO blog content targets useful questions and topics connected to your audience, services and market.",
+              "Each article should contribute to a wider topic strategy rather than being published as an isolated post."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Organic visibility",
+                  "Customer education",
+                  "Long-term content growth"
+                ]
+              },
+              {
+                "label": "Content can include",
+                "items": [
+                  "Informational articles",
+                  "Comparison content",
+                  "Industry guides"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Landing Page Copy",
+            "paragraphs": [
+              "Landing page copy supports a specific campaign, offer or conversion goal.",
+              "The message is focused around one audience and one action, such as an enquiry, registration, appointment or purchase."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Google Ads",
+                  "Meta Ads",
+                  "Product and service campaigns"
+                ]
+              },
+              {
+                "label": "Content can include",
+                "items": [
+                  "Campaign headlines",
+                  "Benefit-led sections",
+                  "Form and CTA copy"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Ecommerce and Product Content",
+            "paragraphs": [
+              "Ecommerce content helps shoppers understand products, categories, benefits, differences and purchasing options.",
+              "It can support both search visibility and conversion when information is clear, useful and consistent."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Product brands",
+                  "Online retailers",
+                  "Growing ecommerce stores"
+                ]
+              },
+              {
+                "label": "Content can include",
+                "items": [
+                  "Product descriptions",
+                  "Category pages",
+                  "Buying guides"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "B2B and Thought Leadership Content",
+            "paragraphs": [
+              "B2B content helps businesses explain complex services, demonstrate expertise and support longer buying decisions.",
+              "The content should address real commercial questions instead of relying on broad promotional claims."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "B2B companies",
+                  "Technology businesses",
+                  "Professional service firms"
+                ]
+              },
+              {
+                "label": "Content can include",
+                "items": [
+                  "Industry articles",
+                  "White papers and reports",
+                  "Solution and use-case pages"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Local and Location-Based Content",
+            "paragraphs": [
+              "Location content helps businesses communicate their relevance across specific cities, regions or service areas.",
+              "Each page should provide genuine local value instead of repeating the same content with a different location name."
+            ],
+            "groups": [
+              {
+                "label": "Best suited for",
+                "items": [
+                  "Local service businesses",
+                  "Multi-location companies",
+                  "Region-specific campaigns"
+                ]
+              },
+              {
+                "label": "Content can include",
+                "items": [
+                  "City service pages",
+                  "Location landing pages",
+                  "Local guides and FAQs"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "WHAT THE SERVICE INCLUDES",
+        "title": "Complete Support From Content Planning to Publication",
+        "paragraphs": [
+          "Content marketing works best when strategy, production, optimisation and measurement support the same objective."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Content Strategy",
+            "paragraphs": [
+              "The project begins by identifying the audience, business priorities, customer questions and content opportunities."
+            ],
+            "groups": [
+              {
+                "label": "This stage may include",
+                "items": [
+                  "Audience and market review",
+                  "Content goal definition",
+                  "Existing content analysis",
+                  "Topic and page prioritisation"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Keyword and Topic Research",
+            "paragraphs": [
+              "Search research helps identify the language, questions and themes potential customers use when looking for information.",
+              "The focus is on relevant opportunities rather than producing content around search volume alone."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Content Planning",
+            "paragraphs": [
+              "A clear content plan organises what should be created, updated or consolidated."
+            ],
+            "groups": [
+              {
+                "label": "Planning may cover",
+                "items": [
+                  "Commercial pages",
+                  "Supporting blog topics",
+                  "Content clusters",
+                  "Monthly production schedules"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Content Brief Development",
+            "paragraphs": [
+              "Content briefs give each page a clear purpose before writing begins."
+            ],
+            "groups": [
+              {
+                "label": "A brief may include",
+                "items": [
+                  "Primary topic and intent",
+                  "Recommended structure",
+                  "Important questions",
+                  "Internal-linking opportunities",
+                  "Conversion objective"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Content Writing and Editing",
+            "paragraphs": [
+              "Content is written to be clear, useful and aligned with your brand.",
+              "The scope can include new content, rewrites, expansions and improvements to existing pages."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "SEO Optimisation",
+            "paragraphs": [],
+            "groups": [
+              {
+                "label": "Content can be prepared with search-friendly elements such as",
+                "items": [
+                  "Heading structure",
+                  "Relevant keyword usage",
+                  "Metadata recommendations",
+                  "Internal links",
+                  "FAQ opportunities"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Content Refresh and Improvement",
+            "paragraphs": [
+              "Existing pages can be reviewed to identify outdated information, unclear messaging, content gaps and missed search opportunities.",
+              "Refreshing strong existing pages may be more valuable than continuously publishing new content."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "CONTENT FORMATS",
+        "title": "Create the Right Content for Each Customer Decision",
+        "paragraphs": [
+          "Use compact cards for the following formats."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Service Pages",
+            "paragraphs": [
+              "Explain what you offer, who it is for and why customers should choose your business."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Blog Articles",
+            "paragraphs": [
+              "Answer customer questions, support search visibility and build topic coverage."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Landing Page Copy",
+            "paragraphs": [
+              "Present one campaign offer and guide visitors towards a specific action."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Product and Category Content",
+            "paragraphs": [
+              "Improve product understanding, search discovery and purchase confidence."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Case Studies",
+            "paragraphs": [
+              "Show how a real business challenge was addressed using approved facts and results."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Email and Campaign Copy",
+            "paragraphs": [
+              "Support promotions, lead nurturing, follow-ups and customer communication.",
+              "Content format recommendations should be based on the audience and customer journey rather than producing every format by default."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "id": "",
+        "eyebrow": "CONTENT PERFORMANCE",
+        "title": "Connect Content With Visibility and Customer Action",
+        "paragraphs": [
+          "Content should be useful to readers while also supporting wider marketing and business goals."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Search Visibility",
+            "paragraphs": [
+              "Content can help important pages appear for relevant customer questions, services, products and topics."
+            ],
+            "groups": [
+              {
+                "label": "Search performance may be reviewed using",
+                "items": [
+                  "Google Search Console",
+                  "Google Analytics 4",
+                  "Keyword tracking platforms",
+                  "Page-level performance reports"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Conversion Support",
+            "paragraphs": [
+              "Important pages should guide readers towards a relevant next step."
+            ],
+            "groups": [
+              {
+                "label": "Conversions may include",
+                "items": [
+                  "Service enquiries",
+                  "Consultation bookings",
+                  "Product purchases",
+                  "Registrations",
+                  "Related-page visits"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Internal Linking",
+            "paragraphs": [
+              "Relevant internal links help readers move between useful articles, services, products and conversion pages.",
+              "They also help search engines understand the relationship between website topics."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Content Performance Review",
+            "paragraphs": [
+              "Traffic alone does not determine whether content is successful. The right measurement depends on the role of each page."
+            ],
+            "groups": [
+              {
+                "label": "Measurement may include",
+                "items": [
+                  "Search impressions and clicks",
+                  "Organic traffic",
+                  "Page engagement",
+                  "Enquiries or sales",
+                  "Content-assisted conversions"
+                ]
+              }
+            ],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "id": "",
+        "eyebrow": "HOW I WORK",
+        "title": "A Clear Process From Content Research to Improvement",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Discover",
+            "paragraphs": [
+              "Understand your business, audience, offers, brand voice, competitors and content objectives."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "01"
+          },
+          {
+            "title": "Research",
+            "paragraphs": [
+              "Review search behaviour, customer questions, current website content and market opportunities."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "02"
+          },
+          {
+            "title": "Plan",
+            "paragraphs": [
+              "Create the content priorities, topics, formats, briefs and recommended production schedule."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "03"
+          },
+          {
+            "title": "Create and Publish",
+            "paragraphs": [
+              "Write, review and prepare the approved content for publication or handover."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "04"
+          },
+          {
+            "title": "Measure and Improve",
+            "paragraphs": [
+              "Review performance, update underperforming pages and expand topics that show meaningful potential."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": "",
+            "step": "05"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "id": "",
+        "eyebrow": "WHY WORK WITH ME",
+        "title": "Content Planned Around Real Marketing Goals",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "Strategy Before Production",
+            "paragraphs": [
+              "Content is created only after defining its audience, purpose, search intent and role within the customer journey."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "SEO and Conversion Understanding",
+            "paragraphs": [
+              "Pages are planned to support both discovery and the action you want readers to take."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Direct Communication",
+            "paragraphs": [
+              "Work directly with the person researching, structuring and preparing your content."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Clear Content Scope",
+            "paragraphs": [
+              "Understand the topics, formats, word counts, deliverables and approval process before production begins."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "faq",
+        "id": "",
+        "eyebrow": "CONTENT MARKETING QUESTIONS",
+        "title": "Common Questions About Content Marketing Services",
+        "paragraphs": [],
+        "trust": [],
+        "closing": "",
+        "primaryCta": null,
+        "secondaryCta": null,
+        "items": [
+          {
+            "title": "What is included in content marketing services?",
+            "paragraphs": [
+              "Content marketing services can include strategy, keyword research, content planning, briefs, website copy, service pages, blogs, landing-page content, ecommerce content, optimisation and performance reviews."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "What type of content does my business need?",
+            "paragraphs": [
+              "The right content depends on your audience, goals and current website. A service business may need stronger commercial pages and articles, while an ecommerce brand may need product, category and buying-guide content."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Is content marketing the same as SEO?",
+            "paragraphs": [
+              "Content marketing and SEO are connected but not identical. Content provides useful information for readers, while SEO helps structure and optimise that information for search discovery. Strong results often require both."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How often should I publish content?",
+            "paragraphs": [
+              "Publishing frequency depends on your resources, competition and content strategy. A smaller number of well-planned and useful pages can be more valuable than publishing large volumes without a clear purpose."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you improve my existing content?",
+            "paragraphs": [
+              "Yes. Existing pages can be audited, rewritten, expanded, consolidated or restructured to improve clarity, search relevance and conversion potential."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do you write content for all industries?",
+            "paragraphs": [
+              "I can support several industries, but the scope depends on the technical complexity, research requirements and access to subject-matter expertise. Regulated or specialist topics may require client review and approved sources."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Do you provide keyword research?",
+            "paragraphs": [
+              "Yes. Keyword and topic research can be included to identify relevant commercial searches, customer questions, content gaps and page opportunities."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "Can you create a monthly content plan?",
+            "paragraphs": [
+              "Yes. A monthly or quarterly plan can include priority topics, target pages, keywords, content types, internal-linking recommendations and production schedules."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How long does content marketing take to show results?",
+            "paragraphs": [
+              "Timelines depend on the website, competition, content quality and distribution. Search-focused content usually requires consistent effort over time, while campaign and sales content may support more immediate activities."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          },
+          {
+            "title": "How much do content marketing services cost?",
+            "paragraphs": [
+              "Pricing depends on the number of pages, research depth, content type, length, industry complexity, optimisation requirements and monthly production volume. A customised proposal is provided after reviewing the scope."
+            ],
+            "groups": [],
+            "cta": null,
+            "meta": ""
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "id": "",
+        "eyebrow": "START YOUR CONTENT PROJECT",
+        "title": "Ready to Build Content That Supports Visibility and Business Growth?",
+        "paragraphs": [
+          "Share your website, target audience, priority services and current content challenges. I will review your requirements and recommend the content types, topics and structure that should be prioritised."
+        ],
+        "trust": [],
+        "closing": "",
+        "primaryCta": {
+          "label": "Discuss Your Content Requirements",
+          "href": "/contact"
+        },
+        "secondaryCta": {
+          "label": "Chat With Sajad",
+          "href": "/contact"
+        },
+        "items": []
+      }
+    ]
+  }
+]
